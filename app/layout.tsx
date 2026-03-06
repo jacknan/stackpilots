@@ -18,15 +18,22 @@ const space_grotesk = Space_Grotesk({
   variable: '--font-space-grotesk',
 })
 
+const defaultSeoTitle = 'AI Developer Tools & Next.js Guides | StackPilots'
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteMetadata.siteUrl),
+  applicationName: siteMetadata.title,
   title: {
-    default: siteMetadata.title,
+    default: defaultSeoTitle,
     template: `%s | ${siteMetadata.title}`,
   },
   description: siteMetadata.description,
+  keywords: siteMetadata.keywords,
+  authors: [{ name: siteMetadata.author }],
+  creator: siteMetadata.author,
+  publisher: siteMetadata.title,
   openGraph: {
-    title: siteMetadata.title,
+    title: defaultSeoTitle,
     description: siteMetadata.description,
     url: './',
     siteName: siteMetadata.title,
@@ -52,7 +59,8 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: siteMetadata.title,
+    title: defaultSeoTitle,
+    description: siteMetadata.description,
     card: 'summary_large_image',
     images: [siteMetadata.socialBanner],
   },
@@ -60,6 +68,28 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const basePath = process.env.BASE_PATH || ''
+  const webSiteSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: siteMetadata.title,
+    url: siteMetadata.siteUrl,
+    description: siteMetadata.description,
+    inLanguage: siteMetadata.language,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${siteMetadata.siteUrl}/blog?search={search_term_string}`,
+      'query-input': 'required name=search_term_string',
+    },
+  }
+
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: siteMetadata.title,
+    url: siteMetadata.siteUrl,
+    logo: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
+    sameAs: [siteMetadata.github, siteMetadata.linkedin, siteMetadata.x].filter(Boolean),
+  }
 
   return (
     <html
@@ -95,6 +125,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
       <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
         <ThemeProviders>
           <Analytics analyticsConfig={siteMetadata.analytics as AnalyticsConfig} />
           <SectionContainer>

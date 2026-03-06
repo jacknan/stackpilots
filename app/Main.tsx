@@ -6,16 +6,88 @@ import NewsletterForm from 'pliny/ui/NewsletterForm'
 
 const MAX_DISPLAY = 5
 
+const hubSections = [
+  {
+    href: '/ai-tools',
+    title: 'AI Tools',
+    description:
+      'Comparisons, benchmarks, and practical recommendations for AI coding assistants and creative tools.',
+  },
+  {
+    href: '/guides',
+    title: 'Guides',
+    description:
+      'Hands-on tutorials for Next.js, prompt engineering, and real-world development workflows.',
+  },
+  {
+    href: '/tools',
+    title: 'Tools',
+    description:
+      'Free browser utilities for JSON, JWT, Base64, regex, timestamps, and SVG optimization.',
+  },
+  {
+    href: '/frontend',
+    title: 'Frontend',
+    description:
+      'Modern frontend engineering insights for Next.js, Tailwind CSS, TypeScript, and performance.',
+  },
+]
+
 export default function Home({ posts }) {
   return (
     <>
+      <section className="pt-4 pb-10 md:pt-6">
+        <h1 className="max-w-5xl text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl md:text-5xl md:leading-[1.08] lg:text-6xl dark:text-gray-100">
+          AI tools, developer guides, and practical web utilities
+        </h1>
+        <p className="mt-5 max-w-3xl text-lg leading-8 text-gray-600 dark:text-gray-300">
+          {siteMetadata.description}
+        </p>
+        <div className="mt-6 flex flex-wrap gap-4">
+          <Link
+            href="/tools"
+            className="bg-primary-500 hover:bg-primary-600 rounded-lg px-5 py-2 text-sm font-semibold text-white"
+          >
+            Explore Developer Tools
+          </Link>
+          <Link
+            href="/ai-tools"
+            className="border-primary-500 text-primary-600 dark:text-primary-400 dark:border-primary-400 rounded-lg border px-5 py-2 text-sm font-semibold"
+          >
+            Browse AI Tool Coverage
+          </Link>
+        </div>
+      </section>
+
+      <section className="pb-10">
+        <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          Browse by topic
+        </h2>
+        <div className="mt-4 grid gap-4 sm:grid-cols-2">
+          {hubSections.map((section) => (
+            <Link
+              key={section.href}
+              href={section.href}
+              className="hover:border-primary-400 block rounded-xl border border-gray-200 p-5 transition dark:border-gray-700"
+            >
+              <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100">
+                {section.title}
+              </h3>
+              <p className="mt-2 text-sm leading-6 text-gray-600 dark:text-gray-300">
+                {section.description}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-          <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
-            Latest
-          </h1>
+          <h2 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14 dark:text-gray-100">
+            Latest Articles
+          </h2>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {siteMetadata.description}
+            Fresh tutorials, tool comparisons, and implementation notes for developers.
           </p>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">

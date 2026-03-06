@@ -1,0 +1,22 @@
+---
+title: 'How to Implement Dark Mode in Next.js with Zero Cumulative Layout Shift'
+date: 2026-03-04T15:08:00Z
+tags: ['next-js', 'dark-mode', 'core-web-vitals']
+draft: false
+summary: 'A stable dark mode strategy for Next.js that avoids theme flicker and cumulative layout shift during hydration.'
+layout: PostSimple
+---
+
+## Why CLS appears in dark mode setups
+
+Theme mismatch between server HTML and client preference often causes visual jumps and hydration warnings.
+
+## Stable implementation pattern
+
+- Render deterministic theme classes early
+- Avoid layout-affecting style swaps on mount
+- Keep typography and spacing invariant between themes
+
+## Related guides
+
+See [Optimizing Core Web Vitals for Your React Application](/blog/frontend/optimizing-core-web-vitals-react).

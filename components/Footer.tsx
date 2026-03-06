@@ -26,10 +26,12 @@ export default function Footer() {
           <div>{` • `}</div>
           <Link href="/">{siteMetadata.title}</Link>
         </div>
-        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
-            Tailwind Nextjs Theme
-          </Link>
+        <div className="mb-10 flex flex-wrap justify-center gap-x-4 gap-y-2 text-xs text-gray-500 dark:text-gray-400">
+          <Link href="/privacy-policy">Privacy Policy</Link>
+          <Link href="/terms">Terms</Link>
+          <Link href="/cookie-policy">Cookie Policy</Link>
+          <Link href="/affiliate-disclosure">Affiliate Disclosure</Link>
+          <Link href="/contact">Contact</Link>
         </div>
       </div>
     </footer>

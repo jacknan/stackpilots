@@ -1,0 +1,22 @@
+---
+title: 'Understanding JWT: How to Safely Decode and Verify Your Tokens'
+date: 2026-03-04T14:54:00Z
+tags: ['security', 'jwt', 'auth']
+draft: false
+summary: 'A practical JWT security guide covering token structure, decoding workflows, signature checks, and common auth pitfalls.'
+layout: PostSimple
+---
+
+## JWT basics
+
+JWT contains header, payload, and signature. Decoding is not the same as verifying trust.
+
+## Safe verification flow
+
+1. Decode and inspect claims.
+2. Verify signature and algorithm policy.
+3. Validate issuer, audience, and expiration.
+
+## Debug faster
+
+Use [JWT Debugger](/tools/jwt-debugger) to inspect token content and test HS256 signature validation.

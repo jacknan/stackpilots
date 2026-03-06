@@ -15,6 +15,9 @@ import siteMetadata from '@/data/siteMetadata'
 import { notFound } from 'next/navigation'
 
 const defaultLayout = 'PostLayout'
+const filteredBlogs = allBlogs.filter((post) =>
+  process.env.NODE_ENV === 'production' ? !post.draft : true
+)
 const layouts = {
   PostSimple,
   PostLayout,
@@ -26,7 +29,7 @@ export async function generateMetadata(props: {
 }): Promise<Metadata | undefined> {
   const params = await props.params
   const slug = decodeURI(params.slug.join('/'))
-  const post = allBlogs.find((p) => p.slug === slug)
+  const post = filteredBlogs.find((p) => p.slug === slug)
   const authorList = post?.authors || ['default']
   const authorDetails = authorList.map((author) => {
     const authorResults = allAuthors.find((p) => p.slug === author)
@@ -39,6 +42,7 @@ export async function generateMetadata(props: {
   const publishedAt = new Date(post.date).toISOString()
   const modifiedAt = new Date(post.lastmod || post.date).toISOString()
   const authors = authorDetails.map((author) => author.name)
+  const canonicalUrl = post.canonicalUrl || `${siteMetadata.siteUrl}/${post.path}`
   let imageList = [siteMetadata.socialBanner]
   if (post.images) {
     imageList = typeof post.images === 'string' ? [post.images] : post.images
@@ -52,6 +56,9 @@ export async function generateMetadata(props: {
   return {
     title: post.title,
     description: post.summary,
+    alternates: {
+      canonical: canonicalUrl,
+    },
     openGraph: {
       title: post.title,
       description: post.summary,
@@ -60,7 +67,7 @@ export async function generateMetadata(props: {
       type: 'article',
       publishedTime: publishedAt,
       modifiedTime: modifiedAt,
-      url: './',
+      url: canonicalUrl,
       images: ogImages,
       authors: authors.length > 0 ? authors : [siteMetadata.author],
     },
@@ -74,14 +81,13 @@ export async function generateMetadata(props: {
 }
 
 export const generateStaticParams = async () => {
-  return allBlogs.map((p) => ({ slug: p.slug.split('/').map((name) => decodeURI(name)) }))
+  return filteredBlogs.map((p) => ({ slug: p.slug.split('/').map((name) => decodeURI(name)) }))
 }
 
 export default async function Page(props: { params: Promise<{ slug: string[] }> }) {
   const params = await props.params
   const slug = decodeURI(params.slug.join('/'))
-  // Filter out drafts in production
-  const sortedCoreContents = allCoreContent(sortPosts(allBlogs))
+  const sortedCoreContents = allCoreContent(sortPosts(filteredBlogs))
   const postIndex = sortedCoreContents.findIndex((p) => p.slug === slug)
   if (postIndex === -1) {
     return notFound()
@@ -89,7 +95,7 @@ export default async function Page(props: { params: Promise<{ slug: string[] }> 
 
   const prev = sortedCoreContents[postIndex + 1]
   const next = sortedCoreContents[postIndex - 1]
-  const post = allBlogs.find((p) => p.slug === slug) as Blog
+  const post = filteredBlogs.find((p) => p.slug === slug) as Blog
   const authorList = post?.authors || ['default']
   const authorDetails = authorList.map((author) => {
     const authorResults = allAuthors.find((p) => p.slug === author)

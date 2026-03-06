@@ -4,8 +4,14 @@ import ListLayout from '@/layouts/ListLayoutWithTags'
 import { allBlogs } from 'contentlayer/generated'
 import tagData from 'app/tag-data.json'
 import { notFound } from 'next/navigation'
+import { Metadata } from 'next'
+import { genPageMetadata } from 'app/seo'
+import siteMetadata from '@/data/siteMetadata'
 
 const POSTS_PER_PAGE = 5
+const filteredBlogs = allBlogs.filter((post) =>
+  process.env.NODE_ENV === 'production' ? !post.draft : true
+)
 
 export const generateStaticParams = async () => {
   const tagCounts = tagData as Record<string, number>
@@ -19,13 +25,38 @@ export const generateStaticParams = async () => {
   })
 }
 
+export async function generateMetadata(props: {
+  params: Promise<{ tag: string; page: string }>
+}): Promise<Metadata> {
+  const params = await props.params
+  const tag = decodeURI(params.tag)
+  const pageNumber = parseInt(params.page)
+  const isFirstPage = pageNumber === 1
+  const isPaginatedPage = pageNumber > 1
+  const encodedTag = encodeURI(tag)
+
+  return genPageMetadata({
+    title: isFirstPage ? tag : `${tag} - Page ${pageNumber}`,
+    description: `${siteMetadata.title} ${tag} tagged content`,
+    alternates: {
+      canonical: isFirstPage ? `/tags/${encodedTag}` : `/tags/${encodedTag}/page/${pageNumber}`,
+    },
+    robots: {
+      index: !isPaginatedPage,
+      follow: true,
+    },
+  })
+}
+
 export default async function TagPage(props: { params: Promise<{ tag: string; page: string }> }) {
   const params = await props.params
   const tag = decodeURI(params.tag)
   const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
   const pageNumber = parseInt(params.page)
   const filteredPosts = allCoreContent(
-    sortPosts(allBlogs.filter((post) => post.tags && post.tags.map((t) => slug(t)).includes(tag)))
+    sortPosts(
+      filteredBlogs.filter((post) => post.tags && post.tags.map((t) => slug(t)).includes(tag))
+    )
   )
   const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE)
 
