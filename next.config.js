@@ -7,7 +7,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app analytics.umami.is cloud.umami.is pagead2.googlesyndication.com *.googlesyndication.com *.doubleclick.net *.googleadservices.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app analytics.umami.is cloud.umami.is static.cloudflareinsights.com pagead2.googlesyndication.com *.googlesyndication.com *.doubleclick.net *.googleadservices.com ep1.adtrafficquality.google ep2.adtrafficquality.google;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src *.s3.amazonaws.com;
