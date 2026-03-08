@@ -1,0 +1,37 @@
+---
+title: 'Platform-Level Multi-Agent Workflow for Full-Stack Teams'
+date: 2026-03-08T10:20:00Z
+tags: ['ai-tools', 'software-engineering', 'workflow']
+draft: false
+summary: 'A practical blueprint for running reusable platform-level AI agents across multiple repositories without rebuilding process every time.'
+layout: PostSimple
+---
+
+## Why platform-level agents matter
+
+Most teams start with project-specific prompts and quickly hit duplication. A platform-level setup gives you reusable roles that move across repositories while keeping a consistent delivery quality bar.
+
+## Recommended role split
+
+- Product Strategist: scope, user pain, acceptance criteria
+- Solution Architect: system boundaries, contracts, trade-offs
+- Frontend Specialist: UX, accessibility, performance
+- Backend Specialist: API reliability, data integrity, security
+- QA Release Manager: quality gates, release checks, rollback plans
+
+## Execution pattern
+
+1. Start with a single source of truth (`PROJECT_BRIEF.md`).
+2. Let product and architecture converge before implementation.
+3. Run frontend and backend in parallel once contracts are stable.
+4. Finish with release gating and monitoring readiness.
+
+## Common failure modes
+
+- Role overlap creates noisy output and ownership confusion.
+- Missing acceptance criteria leads to rework loops.
+- No release gate means defects move downstream.
+
+## Practical next step
+
+If you are starting from a Next.js stack, pair this workflow with [How to Build a Full-Stack App in Minutes Using Next.js and Cursor AI](/blog/guides/build-full-stack-app-nextjs-cursor-ai) and then refine prompts using [Prompt Engineering for Developers: Best Practices for Cleaner Code](/blog/guides/prompt-engineering-for-developers).
