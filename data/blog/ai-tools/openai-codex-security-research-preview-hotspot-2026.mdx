@@ -1,0 +1,37 @@
+---
+title: 'OpenAI Codex Security in Research Preview: Signal Over Noise for AppSec'
+date: 2026-03-09T09:18:00Z
+tags: ['ai-tools', 'security', 'software-engineering']
+draft: false
+summary: 'Codex Security introduces context-aware vulnerability detection and patch proposals; here is what engineering teams should operationalize now.'
+layout: PostSimple
+---
+
+## The headline in one line
+
+OpenAI launched Codex Security (research preview), positioning it as a context-aware application security agent that prioritizes high-confidence findings and actionable fixes over noisy scanners.
+
+## Why this is relevant to product teams
+
+Most teams do not have a vulnerability discovery problem. They have a triage bandwidth problem. If a security agent can reduce false positives while still surfacing critical issues, it directly shortens release cycles and improves confidence in fast-moving repos.
+
+According to OpenAI's announcement, internal and beta usage reports include reduced over-reported severity, lower false positives, and large-scale scanning coverage in external repositories.
+
+## What to change in your release process
+
+- Add security-agent findings as a mandatory input before release approval.
+- Accept only findings with reproducible context and patch rationale.
+- Keep a strict human security review gate for critical and auth-related changes.
+- Track two quality metrics weekly: false-positive rate and mean time to remediation.
+
+## Practical rollout path (small team)
+
+1. Pilot on one service with stable test coverage.
+2. Compare results against your existing scanner baseline for 2-3 sprints.
+3. Use the agent for pre-merge checks on high-risk endpoints.
+4. Expand only when signal-to-noise stays consistently high.
+
+## Sources
+
+- OpenAI: [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview/)
+- OpenAI Docs: [Codex Security documentation](https://developers.openai.com/codex/security)

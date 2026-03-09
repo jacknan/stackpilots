@@ -1,0 +1,35 @@
+---
+title: 'GitHub Agent HQ Adds Claude and Codex: What It Changes for Dev Teams'
+date: 2026-03-09T09:10:00Z
+tags: ['ai-tools', 'github-copilot', 'software-engineering']
+draft: false
+summary: 'A practical breakdown of GitHub Agent HQ multi-agent workflows and what engineering teams should change in review, governance, and delivery.'
+layout: PostSimple
+---
+
+## Why this is a real workflow shift
+
+GitHub announced that Agent HQ now supports Claude and Codex in public preview for Copilot Pro+ and Copilot Enterprise. The important part is not just model choice. The real shift is that teams can run different agents in the same repository workflow and keep history, review context, and artifacts attached to issues and pull requests.
+
+## What matters for your delivery pipeline
+
+- You can assign tasks to different agents and compare outputs on the same issue.
+- Agent sessions run asynchronously, so teams can parallelize exploration and implementation.
+- Agent-generated work appears in familiar review surfaces (draft PRs, comments, follow-up requests).
+- Enterprise controls and auditability remain in the same GitHub governance model.
+
+For teams already using strict PR review policies, this lowers adoption friction because AI output is still reviewed with existing standards rather than a separate workflow.
+
+## Suggested team playbook
+
+1. Use one agent for architecture guardrails and threat/risk checks.
+2. Use another for implementation speed on low-blast-radius changes.
+3. Use a third pass for edge-case and regression pressure testing.
+4. Require human approval on all high-impact merges.
+
+This pattern turns AI from a single assistant into a controlled multi-agent review layer.
+
+## Sources
+
+- GitHub Blog: [Pick your agent: Use Claude and Codex on Agent HQ](https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/)
+- GitHub Docs: [Manage policies for third-party coding agents](https://docs.github.com/copilot/how-tos/manage-your-account/manage-policies)
