@@ -3,6 +3,8 @@ import path from 'node:path'
 import crypto from 'node:crypto'
 
 const OUTPUT_DIR = path.resolve('data/blog/ai-tools')
+const TARGET_POSTS_PER_RUN = 2
+const MAX_ITEMS_PER_FEED = 6
 
 const FEEDS = [
   {
@@ -14,6 +16,11 @@ const FEEDS = [
     key: 'openai',
     rss: 'https://openai.com/news/rss.xml',
     tags: ['ai-tools', 'software-engineering', 'trends'],
+  },
+  {
+    key: 'verge',
+    rss: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+    tags: ['ai-tools', 'industry-news', 'software-engineering'],
   },
 ]
 
@@ -41,27 +48,49 @@ function slugify(input) {
     .slice(0, 70)
 }
 
-function pickFirstItem(xml) {
-  const itemMatch = xml.match(/<item>[\s\S]*?<\/item>/i)
-  if (!itemMatch) return null
-  const item = itemMatch[0]
-  const get = (tag) => {
-    const m = item.match(new RegExp(`<${tag}>([\\s\\S]*?)<\\/${tag}>`, 'i'))
-    return m ? decodeXml(m[1].trim()) : ''
+function getTagValue(block, tag) {
+  const match = block.match(new RegExp(`<${tag}(?: [^>]*)?>([\\s\\S]*?)<\\/${tag}>`, 'i'))
+  if (!match) return ''
+  return decodeXml(stripHtml(match[1].trim()))
+}
+
+function parseRssItems(xml) {
+  const items = []
+  const matches = xml.match(/<item>[\s\S]*?<\/item>/gi) || []
+
+  for (const block of matches.slice(0, MAX_ITEMS_PER_FEED)) {
+    const title = getTagValue(block, 'title')
+    const link = getTagValue(block, 'link')
+    const description = getTagValue(block, 'description')
+    const pubDate = getTagValue(block, 'pubDate') || getTagValue(block, 'published')
+
+    if (!title || !link) continue
+    items.push({ title, link, description, pubDate })
   }
-  return {
-    title: stripHtml(get('title')),
-    link: stripHtml(get('link')),
-    description: stripHtml(get('description')),
-    pubDate: stripHtml(get('pubDate')),
+
+  if (items.length > 0) return items
+
+  const entryMatches = xml.match(/<entry[\s\S]*?<\/entry>/gi) || []
+  for (const block of entryMatches.slice(0, MAX_ITEMS_PER_FEED)) {
+    const title = getTagValue(block, 'title')
+    const description = getTagValue(block, 'summary') || getTagValue(block, 'content')
+    const pubDate = getTagValue(block, 'published') || getTagValue(block, 'updated')
+
+    const linkTag = block.match(/<link[^>]*href="([^"]+)"[^>]*>/i)
+    const link = linkTag ? decodeXml(linkTag[1].trim()) : ''
+
+    if (!title || !link) continue
+    items.push({ title, link, description, pubDate })
   }
+
+  return items
 }
 
 function buildPost(feedKey, item, tags) {
   const now = new Date()
   const dateIso = now.toISOString()
   const ymd = dateIso.slice(0, 10)
-  const short = crypto.createHash('sha1').update(item.link).digest('hex').slice(0, 6)
+  const short = crypto.createHash('sha1').update(item.link).digest('hex').slice(0, 10)
   const slug = `${feedKey}-${ymd}-${slugify(item.title)}-${short}`
   const fileName = `${slug}.mdx`
   const summary = item.description || `Daily hotspot update from ${feedKey}.`
@@ -90,23 +119,55 @@ function buildPost(feedKey, item, tags) {
 
 async function run() {
   await fs.mkdir(OUTPUT_DIR, { recursive: true })
-  let created = 0
+  const candidates = []
+
+  const requestHeaders = {
+    'user-agent': 'stackpilots-daily-hotspot-bot/1.0 (+https://www.stackpilots.org)',
+    accept: 'application/rss+xml, application/xml, text/xml, */*',
+  }
 
   for (const feed of FEEDS) {
-    const response = await fetch(feed.rss)
-    if (!response.ok) {
-      console.warn(`Skip ${feed.key}: HTTP ${response.status}`)
-      continue
-    }
+    try {
+      const response = await fetch(feed.rss, { headers: requestHeaders })
+      if (!response.ok) {
+        console.warn(`Skip ${feed.key}: HTTP ${response.status}`)
+        continue
+      }
 
-    const xml = await response.text()
-    const item = pickFirstItem(xml)
-    if (!item || !item.title || !item.link) {
-      console.warn(`Skip ${feed.key}: no parsable item`)
-      continue
-    }
+      const xml = await response.text()
+      const items = parseRssItems(xml)
+      if (items.length === 0) {
+        console.warn(`Skip ${feed.key}: no parsable item`)
+        continue
+      }
 
-    const post = buildPost(feed.key, item, feed.tags)
+      for (const item of items) {
+        candidates.push({ ...item, feedKey: feed.key, tags: feed.tags })
+      }
+    } catch (error) {
+      console.warn(`Skip ${feed.key}: ${error.message}`)
+    }
+  }
+
+  const seenLinks = new Set()
+  const uniqueCandidates = candidates.filter((item) => {
+    if (seenLinks.has(item.link)) return false
+    seenLinks.add(item.link)
+    return true
+  })
+
+  uniqueCandidates.sort((a, b) => {
+    const aTime = a.pubDate ? Date.parse(a.pubDate) || 0 : 0
+    const bTime = b.pubDate ? Date.parse(b.pubDate) || 0 : 0
+    return bTime - aTime
+  })
+
+  let created = 0
+
+  for (const candidate of uniqueCandidates) {
+    if (created >= TARGET_POSTS_PER_RUN) break
+
+    const post = buildPost(candidate.feedKey, candidate, candidate.tags)
     const filePath = path.join(OUTPUT_DIR, post.fileName)
 
     try {
