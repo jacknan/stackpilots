@@ -117,9 +117,36 @@ function buildPost(feedKey, item, tags) {
   return { fileName, content }
 }
 
+async function collectExistingSourceLinks() {
+  const links = new Set()
+
+  let entries = []
+  try {
+    entries = await fs.readdir(OUTPUT_DIR)
+  } catch {
+    return links
+  }
+
+  for (const name of entries) {
+    if (!name.endsWith('.mdx')) continue
+    const fullPath = path.join(OUTPUT_DIR, name)
+
+    try {
+      const content = await fs.readFile(fullPath, 'utf8')
+      const match = content.match(/- Original article: \[[^\]]+\]\((https?:\/\/[^)]+)\)/i)
+      if (match?.[1]) links.add(match[1].trim())
+    } catch {
+      // ignore unreadable files and keep processing
+    }
+  }
+
+  return links
+}
+
 async function run() {
   await fs.mkdir(OUTPUT_DIR, { recursive: true })
   const candidates = []
+  const existingLinks = await collectExistingSourceLinks()
 
   const requestHeaders = {
     'user-agent': 'stackpilots-daily-hotspot-bot/1.0 (+https://www.stackpilots.org)',
@@ -151,6 +178,7 @@ async function run() {
 
   const seenLinks = new Set()
   const uniqueCandidates = candidates.filter((item) => {
+    if (existingLinks.has(item.link)) return false
     if (seenLinks.has(item.link)) return false
     seenLinks.add(item.link)
     return true
