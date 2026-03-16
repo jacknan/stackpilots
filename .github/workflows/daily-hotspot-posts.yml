@@ -28,6 +28,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/blog/ai-tools/*.mdx
+          git add .stackpilots/hotspot-queue.json
           if git diff --cached --quiet; then
             echo "No content changes"
             exit 0

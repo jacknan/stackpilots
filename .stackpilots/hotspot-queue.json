@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "queue": [
+    {
+      "title": "What&#8217;s new with GitHub Copilot coding agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
+      "description": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. The post What&#8217;s new with GitHub Copilot coding agent appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Thu, 26 Feb 2026 20:47:02 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 7,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "The era of “AI as text” is over. Execution is the new interface.",
+      "link": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
+      "description": "AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside your applications. The post The era of “AI as text” is over. Execution is the new interface. appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Tue, 10 Mar 2026 20:16:01 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 5,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
+      "link": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+      "description": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Fri, 06 Mar 2026 21:09:04 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 4,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
+      "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+      "description": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Thu, 19 Feb 2026 17:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 4,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+      "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Mon, 09 Mar 2026 16:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "60 million Copilot code reviews and counting",
+      "link": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
+      "description": "How Copilot code review helps teams keep up with AI-accelerated code changes. The post 60 million Copilot code reviews and counting appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Thu, 05 Mar 2026 20:10:43 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
+      "description": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical guide to building with GitHub Copilot CLI appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Fri, 27 Feb 2026 16:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+      "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "description": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. The post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Thu, 12 Mar 2026 16:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
+      "link": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
+      "description": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often fail. Here’s how to engineer ones that don’t. appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Tue, 24 Feb 2026 16:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Google, Accel India accelerator chooses 5 startups and none are &#8216;AI wrappers&#8217;",
+      "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "description": "",
+      "pubDate": "Mon, 16 Mar 2026 00:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "description": "",
+      "pubDate": "Sun, 15 Mar 2026 18:49:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "description": "",
+      "pubDate": "Sat, 14 Mar 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "&#8216;Not built right the first time&#8217; &#8212; Musk&#8217;s xAI is starting over again, again",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "description": "",
+      "pubDate": "Sat, 14 Mar 2026 00:12:22 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Steven Spielberg says he&#8217;s &#8216;never used AI&#8217; in any of his films",
+      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "description": "",
+      "pubDate": "Fri, 13 Mar 2026 19:47:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "The biggest AI stories of the year (so far)",
+      "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "description": "",
+      "pubDate": "Fri, 13 Mar 2026 19:38:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-16T03:59:33.154Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-03-16",
+      "files": [
+        "github-ai-2026-03-16-join-or-host-a-github-copilot-dev-days-event-near-you-7074e9c823.mdx",
+        "techcrunch-ai-2026-03-16-nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-the-25982ec946.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
+        "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
+      ]
+    }
+  ]
+}
