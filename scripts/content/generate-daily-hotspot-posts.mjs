@@ -4,24 +4,60 @@ import crypto from 'node:crypto'
 
 const OUTPUT_DIR = path.resolve('data/blog/ai-tools')
 const TARGET_POSTS_PER_RUN = 2
-const MAX_ITEMS_PER_FEED = 6
+const MAX_ITEMS_PER_FEED = 10
 
 const FEEDS = [
   {
-    key: 'github',
-    rss: 'https://github.blog/news-insights/company-news/feed/',
+    key: 'github-ai',
+    rss: 'https://github.blog/ai-and-ml/feed/',
     tags: ['ai-tools', 'github-copilot', 'software-engineering'],
   },
   {
-    key: 'openai',
-    rss: 'https://openai.com/news/rss.xml',
-    tags: ['ai-tools', 'software-engineering', 'trends'],
+    key: 'techcrunch-ai',
+    rss: 'https://techcrunch.com/category/artificial-intelligence/feed/',
+    tags: ['ai-tools', 'industry-news', 'software-engineering'],
   },
   {
-    key: 'verge',
+    key: 'verge-ai',
     rss: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
     tags: ['ai-tools', 'industry-news', 'software-engineering'],
   },
+  {
+    key: 'hn-devtools',
+    rss: 'https://hnrss.org/newest?q=%22ai%20coding%22%20OR%20%22developer%20tools%22%20OR%20%22coding%20agent%22',
+    tags: ['ai-tools', 'software-engineering', 'developer-workflow'],
+  },
+  {
+    key: 'openai-news',
+    rss: 'https://openai.com/news/rss.xml',
+    tags: ['ai-tools', 'software-engineering', 'trends'],
+  },
+]
+
+const KEYWORDS = [
+  'ai',
+  'agent',
+  'copilot',
+  'codex',
+  'claude',
+  'gpt',
+  'llm',
+  'developer',
+  'development',
+  'coding',
+  'code',
+  'software',
+  'programming',
+  'api',
+  'security',
+  'devops',
+  'testing',
+  'framework',
+  'tool',
+  'tools',
+  'next.js',
+  'react',
+  'typescript',
 ]
 
 function stripHtml(input) {
@@ -54,13 +90,31 @@ function getTagValue(block, tag) {
   return decodeXml(stripHtml(match[1].trim()))
 }
 
+function normalizeUrl(input) {
+  try {
+    const url = new URL(input)
+    url.hash = ''
+    for (const key of [...url.searchParams.keys()]) {
+      if (key.startsWith('utm_')) url.searchParams.delete(key)
+    }
+    return url.toString()
+  } catch {
+    return input.trim()
+  }
+}
+
+function isRelevant(item) {
+  const text = `${item.title} ${item.description}`.toLowerCase()
+  return KEYWORDS.some((keyword) => text.includes(keyword))
+}
+
 function parseRssItems(xml) {
   const items = []
   const matches = xml.match(/<item>[\s\S]*?<\/item>/gi) || []
 
   for (const block of matches.slice(0, MAX_ITEMS_PER_FEED)) {
     const title = getTagValue(block, 'title')
-    const link = getTagValue(block, 'link')
+    const link = normalizeUrl(getTagValue(block, 'link'))
     const description = getTagValue(block, 'description')
     const pubDate = getTagValue(block, 'pubDate') || getTagValue(block, 'published')
 
@@ -77,13 +131,28 @@ function parseRssItems(xml) {
     const pubDate = getTagValue(block, 'published') || getTagValue(block, 'updated')
 
     const linkTag = block.match(/<link[^>]*href="([^"]+)"[^>]*>/i)
-    const link = linkTag ? decodeXml(linkTag[1].trim()) : ''
+    const link = linkTag ? normalizeUrl(decodeXml(linkTag[1].trim())) : ''
 
     if (!title || !link) continue
     items.push({ title, link, description, pubDate })
   }
 
   return items
+}
+
+function scoreCandidate(item) {
+  const text = `${item.title} ${item.description}`.toLowerCase()
+  let score = 0
+
+  for (const keyword of KEYWORDS) {
+    if (text.includes(keyword)) score += 1
+  }
+
+  if (text.includes('github copilot') || text.includes('codex') || text.includes('claude'))
+    score += 2
+  if (text.includes('developer') || text.includes('software') || text.includes('coding')) score += 1
+
+  return score
 }
 
 function buildPost(feedKey, item, tags) {
@@ -169,6 +238,7 @@ async function run() {
       }
 
       for (const item of items) {
+        if (!isRelevant(item)) continue
         candidates.push({ ...item, feedKey: feed.key, tags: feed.tags })
       }
     } catch (error) {
@@ -187,13 +257,19 @@ async function run() {
   uniqueCandidates.sort((a, b) => {
     const aTime = a.pubDate ? Date.parse(a.pubDate) || 0 : 0
     const bTime = b.pubDate ? Date.parse(b.pubDate) || 0 : 0
+    const aScore = scoreCandidate(a)
+    const bScore = scoreCandidate(b)
+
+    if (bScore !== aScore) return bScore - aScore
     return bTime - aTime
   })
 
   let created = 0
+  const usedFeeds = new Set()
 
   for (const candidate of uniqueCandidates) {
     if (created >= TARGET_POSTS_PER_RUN) break
+    if (usedFeeds.has(candidate.feedKey)) continue
 
     const post = buildPost(candidate.feedKey, candidate, candidate.tags)
     const filePath = path.join(OUTPUT_DIR, post.fileName)
@@ -208,7 +284,28 @@ async function run() {
 
     await fs.writeFile(filePath, post.content, 'utf8')
     console.log(`Created: ${post.fileName}`)
+    usedFeeds.add(candidate.feedKey)
     created += 1
+  }
+
+  if (created < TARGET_POSTS_PER_RUN) {
+    for (const candidate of uniqueCandidates) {
+      if (created >= TARGET_POSTS_PER_RUN) break
+
+      const post = buildPost(candidate.feedKey, candidate, candidate.tags)
+      const filePath = path.join(OUTPUT_DIR, post.fileName)
+
+      try {
+        await fs.access(filePath)
+        continue
+      } catch {
+        // file does not exist
+      }
+
+      await fs.writeFile(filePath, post.content, 'utf8')
+      console.log(`Created fallback: ${post.fileName}`)
+      created += 1
+    }
   }
 
   console.log(`Done. Created ${created} file(s).`)
