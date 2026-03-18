@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "The era of “AI as text” is over. Execution is the new interface.",
-      "link": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
-      "description": "AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside your applications. The post The era of “AI as text” is over. Execution is the new interface. appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Tue, 10 Mar 2026 20:16:01 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 5,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
       "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
       "link": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
       "description": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework appeared first on The GitHub Blog . ]]>",
@@ -42,6 +28,34 @@
       ],
       "score": 4,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "World launches tool to verify humans behind AI shopping agents",
+      "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
     },
     {
       "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
@@ -86,6 +100,20 @@
       "queuedAt": "2026-03-16T03:59:33.154Z"
     },
     {
+      "title": "Picsart now allows creators to &#8216;hire&#8217; AI assistants through agent marketplace",
+      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 04:01:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
       "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
       "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
       "description": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. The post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog . ]]>",
@@ -112,6 +140,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 21:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 17:17:15 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 15:37:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "AI&#8217;s &#8216;boys&#8217; club&#8217; could widen the wealth gap for women, says Rana el Kaliouby",
+      "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 15:16:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "description": "",
+      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-18T03:49:47.424Z"
     },
     {
       "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
@@ -303,6 +401,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
         "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "files": [
+        "github-ai-2026-03-18-the-era-of-ai-as-text-is-over-execution-is-the-new-interface-7f0c197269.mdx",
+        "techcrunch-ai-2026-03-18-why-garry-tan-8217-s-claude-code-setup-has-gotten-so-much-love-and-hat-4f5909dbd1.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
+        "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/"
       ]
     }
   ]
