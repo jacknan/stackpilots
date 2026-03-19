@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
-      "link": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
-      "description": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Fri, 06 Mar 2026 21:09:04 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 4,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
       "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
       "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
       "description": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog . ]]>",
@@ -28,20 +14,6 @@
       ],
       "score": 4,
       "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
-      "title": "World launches tool to verify humans behind AI shopping agents",
-      "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-      "description": "",
-      "pubDate": "Tue, 17 Mar 2026 15:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 3,
-      "queuedAt": "2026-03-18T03:49:47.424Z"
     },
     {
       "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
@@ -100,6 +72,62 @@
       "queuedAt": "2026-03-16T03:59:33.154Z"
     },
     {
+      "title": "Meta is having trouble with rogue AI agents",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 23:42:46 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 20:30:52 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
+      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+      "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 17:15:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
       "title": "Picsart now allows creators to &#8216;hire&#8217; AI assistants through agent marketplace",
       "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
       "description": "",
@@ -140,6 +168,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Sam Altman&#8217;s thank-you to coders draws the memes",
+      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 23:12:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
+      "title": "Patreon CEO calls AI companies&#8217; fair use argument &#8216;bogus,&#8217; says creators should be paid",
+      "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 17:54:31 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 15:33:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
+    },
+    {
+      "title": "The PhD students who became the judges of the AI industry",
+      "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+      "description": "",
+      "pubDate": "Wed, 18 Mar 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-19T03:49:00.994Z"
     },
     {
       "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
@@ -412,6 +496,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
         "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "files": [
+        "github-ai-2026-03-19-how-to-scan-for-vulnerabilities-with-github-security-lab-s-open-source-3b393ff4b3.mdx",
+        "techcrunch-ai-2026-03-19-world-launches-tool-to-verify-humans-behind-ai-shopping-agents-f8dd8ac3cf.mdx"
+      ],
+      "links": [
+        "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+        "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/"
       ]
     }
   ]
