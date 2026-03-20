@@ -156,11 +156,150 @@ function scoreCandidate(item) {
   return score
 }
 
+function sentenceCase(input) {
+  if (!input) return ''
+  return input.charAt(0).toUpperCase() + input.slice(1)
+}
+
+function buildAngle(item) {
+  const text = `${item.title} ${item.description}`.toLowerCase()
+
+  if (text.includes('security') || text.includes('vulnerab')) {
+    return {
+      category: 'security engineering',
+      implications: [
+        'Security teams can shift from noisy scanner output toward higher-confidence review queues.',
+        'Engineering teams should connect vulnerability findings to reproducible validation and concrete patch plans.',
+        'Application security becomes easier to operationalize when findings align with repository context and runtime behavior.',
+      ],
+      takeaways: [
+        'Pilot the workflow on one service with reliable test coverage before rolling it across the estate.',
+        'Track false-positive rate and time-to-remediation instead of only counting findings.',
+        'Require human review for critical auth, data exposure, and infrastructure-touching fixes.',
+      ],
+      risks: [
+        'Teams may over-trust agent-generated security findings without validating exploitability.',
+        'Poor environment setup can reduce the quality advantage of context-aware security tooling.',
+      ],
+    }
+  }
+
+  if (
+    text.includes('copilot') ||
+    text.includes('codex') ||
+    text.includes('claude') ||
+    text.includes('agent')
+  ) {
+    return {
+      category: 'developer tooling',
+      implications: [
+        'Developer workflows are moving from single-assistant usage toward role-based agent collaboration.',
+        'Teams can now compare multiple implementation paths and reasoning styles before code hardens in production.',
+        'Tooling decisions increasingly affect review velocity, governance, and delivery quality instead of just raw coding speed.',
+      ],
+      takeaways: [
+        'Define clear responsibility boundaries for planning, architecture, implementation, and release checks.',
+        'Keep agent output inside normal pull request review so governance stays familiar to the team.',
+        'Prefer small, reviewable changes until you understand the blast radius of the new workflow.',
+      ],
+      risks: [
+        'Without clear ownership, multiple agents can create redundant or conflicting output.',
+        'Teams may optimize for speed before they have adequate quality gates and observability.',
+      ],
+    }
+  }
+
+  if (text.includes('api') || text.includes('sdk') || text.includes('framework')) {
+    return {
+      category: 'platform engineering',
+      implications: [
+        'New APIs and SDK capabilities change how quickly teams can embed automation into product workflows.',
+        'Platform teams need to evaluate integration complexity alongside productivity gains.',
+        'The most valuable tools are usually the ones that fit existing repos, CI, and release discipline.',
+      ],
+      takeaways: [
+        'Test the integration path end to end before expanding to broader use cases.',
+        'Document operational constraints, rate limits, and fallback behavior early.',
+        'Measure the effect on delivery lead time, developer satisfaction, and incident rate.',
+      ],
+      risks: [
+        'Rapid SDK adoption can create hidden maintenance burden if contracts change quickly.',
+        'Teams may ignore long-term supportability while optimizing for launch speed.',
+      ],
+    }
+  }
+
+  return {
+    category: 'software engineering',
+    implications: [
+      'The story reflects a shift in how engineering teams evaluate tools, workflows, and delivery trade-offs.',
+      'Operational decisions around tooling now have direct impact on collaboration quality and release confidence.',
+      'Teams that translate news into concrete process changes usually capture more value than teams that only monitor headlines.',
+    ],
+    takeaways: [
+      'Turn the announcement into one or two practical experiments instead of broad process changes.',
+      'Write down success metrics before adopting a new tool or workflow at team scale.',
+      'Review security, governance, and rollback implications as part of adoption planning.',
+    ],
+    risks: [
+      'Headline-driven adoption often leads to fragmented tooling and duplicated workflows.',
+      'Teams may copy tactics from larger vendors without matching the same operational maturity.',
+    ],
+  }
+}
+
+function cleanSummary(input) {
+  return sentenceCase((input || '').replace(/\s+/g, ' ').trim())
+}
+
+function buildSummary(item, angle) {
+  const base = cleanSummary(item.description)
+  const shortBase = base
+    ? base.slice(0, 170)
+    : `${sentenceCase(item.title)} is relevant to ${angle.category} teams right now.`
+  return `${shortBase} This analysis translates the update into practical engineering implications and action items.`.slice(
+    0,
+    220
+  )
+}
+
+function listSection(items) {
+  return items.map((item) => `- ${item}`).join('\n')
+}
+
+function buildPostBody(item, angle) {
+  const sourceSummary =
+    cleanSummary(item.description) ||
+    `${sentenceCase(item.title)} signals a relevant change for teams working on developer tools and AI-enabled delivery workflows.`
+
+  return (
+    `## What happened\n\n` +
+    `${sourceSummary}\n\n` +
+    `In practical terms, this matters because the update touches ${angle.category} decisions that engineering teams often need to make under delivery pressure. Instead of treating the source as a simple news item, the better move is to ask what changes in architecture, process, or release discipline if this trend continues.\n\n` +
+    `## Why this matters to engineering teams\n\n` +
+    `${listSection(angle.implications)}\n\n` +
+    `## Technical implications\n\n` +
+    `The most important engineering question is not whether the announcement is impressive, but whether it changes how a team should structure work. For developer tooling stories, that usually means tighter review loops, stronger contract definitions, and clearer role boundaries between planning, implementation, and validation. For platform or security stories, it means translating claims into measurable operational outcomes such as failure reduction, review speed, or lower remediation time.\n\n` +
+    `A mature team should also separate headline value from implementation value. A new capability can be strategically important while still being operationally immature. That is why adoption works best when teams begin with a narrow, instrumented use case and expand only after they can observe meaningful quality or productivity gains.\n\n` +
+    `## Practical takeaways\n\n` +
+    `${listSection(angle.takeaways)}\n\n` +
+    `## Risks and limitations\n\n` +
+    `${listSection(angle.risks)}\n\n` +
+    `## Recommended next step\n\n` +
+    `Treat this update as an input into your engineering roadmap, not an instruction to adopt blindly. Pick one concrete workflow, define a success metric, and run a time-boxed experiment before expanding usage. That approach turns industry news into operational learning instead of content churn.\n\n` +
+    `## Source context\n\n` +
+    `- Original article: [${item.title}](${item.link})\n` +
+    `${item.pubDate ? `- Published: ${item.pubDate}\n` : ''}`
+  )
+}
+
 function buildPost(item, ymd, dateIso) {
   const short = crypto.createHash('sha1').update(item.link).digest('hex').slice(0, 10)
   const slug = `${item.feedKey}-${ymd}-${slugify(item.title)}-${short}`
   const fileName = `${slug}.mdx`
-  const summary = item.description || `Daily hotspot update from ${item.feedKey}.`
+  const angle = buildAngle(item)
+  const summary = buildSummary(item, angle)
+  const contentBody = buildPostBody(item, angle)
 
   const content =
     `---\n` +
@@ -171,15 +310,7 @@ function buildPost(item, ymd, dateIso) {
     `summary: '${summary.replace(/'/g, "''").slice(0, 220)}'\n` +
     `layout: PostSimple\n` +
     `---\n\n` +
-    `## Daily hotspot snapshot\n\n` +
-    `This article is generated from a curated international source feed and reviewed in-repo for relevance to AI engineering workflows.\n\n` +
-    `## Why it matters\n\n` +
-    `- Signal for developer tooling, platform capabilities, or engineering workflow changes.\n` +
-    `- Useful for product, architecture, and release planning discussions.\n` +
-    `- Helps maintain a consistent daily content cadence.\n\n` +
-    `## Source\n\n` +
-    `- Original article: [${item.title}](${item.link})\n` +
-    `${item.pubDate ? `- Published: ${item.pubDate}\n` : ''}`
+    `${contentBody}`
 
   return { fileName, content, link: item.link }
 }
