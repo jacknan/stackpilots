@@ -16,20 +16,6 @@
       "queuedAt": "2026-03-16T03:59:33.154Z"
     },
     {
-      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-      "description": "",
-      "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 3,
-      "queuedAt": "2026-03-18T03:49:47.424Z"
-    },
-    {
       "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
       "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
       "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The GitHub Blog . ]]>",
@@ -168,6 +154,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "description": "",
+      "pubDate": "Thu, 19 Mar 2026 22:09:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-20T01:59:07.069Z"
+    },
+    {
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "description": "",
+      "pubDate": "Thu, 19 Mar 2026 17:24:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-20T01:59:07.069Z"
+    },
+    {
+      "title": "DoorDash launches a new &#8216;Tasks&#8217; app that pays couriers to submit videos to train AI",
+      "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "description": "",
+      "pubDate": "Thu, 19 Mar 2026 16:14:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-20T01:59:07.069Z"
+    },
+    {
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "description": "",
+      "pubDate": "Thu, 19 Mar 2026 08:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-20T01:59:07.069Z"
     },
     {
       "title": "Sam Altman&#8217;s thank-you to coders draws the memes",
@@ -507,6 +549,17 @@
       "links": [
         "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
         "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "files": [
+        "github-ai-2026-03-20-how-squad-runs-coordinated-ai-agents-inside-your-repository-217e48af96.mdx",
+        "techcrunch-ai-2026-03-20-gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe-8079bc1790.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+        "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
       ]
     }
   ]
