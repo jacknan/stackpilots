@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
-      "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
-      "description": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Thu, 19 Feb 2026 17:00:00 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 4,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
       "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
       "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
       "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The GitHub Blog . ]]>",
@@ -56,6 +42,34 @@
       ],
       "score": 3,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "description": "",
+      "pubDate": "Fri, 20 Mar 2026 16:43:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-21T03:30:36.349Z"
+    },
+    {
+      "title": "Trump&#8217;s AI framework targets state laws, shifts child safety burden to parents",
+      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "description": "",
+      "pubDate": "Fri, 20 Mar 2026 16:14:04 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-21T03:30:36.349Z"
     },
     {
       "title": "Meta is having trouble with rogue AI agents",
@@ -154,6 +168,34 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "The best AI investment might be in energy tech",
+      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "description": "",
+      "pubDate": "Fri, 20 Mar 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-21T03:30:36.349Z"
+    },
+    {
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "description": "",
+      "pubDate": "Fri, 20 Mar 2026 11:31:38 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-21T03:30:36.349Z"
     },
     {
       "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
@@ -560,6 +602,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
         "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "files": [
+        "github-ai-2026-03-21-how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it-9d6be04a09.mdx",
+        "techcrunch-ai-2026-03-21-microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows-5d7a41ac70.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+        "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
       ]
     }
   ]
