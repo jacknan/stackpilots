@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
-      "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
-      "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Mon, 09 Mar 2026 16:00:00 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 3,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
       "title": "60 million Copilot code reviews and counting",
       "link": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
       "description": "How Copilot code review helps teams keep up with AI-accelerated code changes. The post 60 million Copilot code reviews and counting appeared first on The GitHub Blog . ]]>",
@@ -42,20 +28,6 @@
       ],
       "score": 3,
       "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
-      "title": "WordPress.com now lets AI agents write and publish posts, and more",
-      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "description": "",
-      "pubDate": "Fri, 20 Mar 2026 16:43:09 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-21T03:30:36.349Z"
     },
     {
       "title": "Trump&#8217;s AI framework targets state laws, shifts child safety burden to parents",
@@ -168,6 +140,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "description": "",
+      "pubDate": "Sat, 21 Mar 2026 19:30:27 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-22T03:46:38.049Z"
     },
     {
       "title": "The best AI investment might be in energy tech",
@@ -613,6 +599,17 @@
       "links": [
         "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
         "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
+      ]
+    },
+    {
+      "date": "2026-03-22",
+      "files": [
+        "github-ai-2026-03-22-under-the-hood-security-architecture-of-github-agentic-workflows-a4ec18135c.mdx",
+        "techcrunch-ai-2026-03-22-wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more-1e806e435e.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+        "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
       ]
     }
   ]
