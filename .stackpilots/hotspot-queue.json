@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "60 million Copilot code reviews and counting",
-      "link": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
-      "description": "How Copilot code review helps teams keep up with AI-accelerated code changes. The post 60 million Copilot code reviews and counting appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Thu, 05 Mar 2026 20:10:43 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 3,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
-    },
-    {
       "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
       "description": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical guide to building with GitHub Copilot CLI appeared first on The GitHub Blog . ]]>",
@@ -140,6 +126,34 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple",
+      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "description": "",
+      "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-23T04:00:34.036Z"
+    },
+    {
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "description": "",
+      "pubDate": "Sun, 22 Mar 2026 06:20:43 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-23T04:00:34.036Z"
     },
     {
       "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
@@ -610,6 +624,17 @@
       "links": [
         "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
         "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
+      ]
+    },
+    {
+      "date": "2026-03-23",
+      "files": [
+        "techcrunch-ai-2026-03-23-cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ai-s-k-93d00da226.mdx",
+        "github-ai-2026-03-23-60-million-copilot-code-reviews-and-counting-21c2a5b52f.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+        "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/"
       ]
     }
   ]
