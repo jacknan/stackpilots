@@ -2,18 +2,18 @@
   "version": 1,
   "queue": [
     {
-      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
-      "description": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical guide to building with GitHub Copilot CLI appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Fri, 27 Feb 2026 16:00:00 +0000",
-      "feedKey": "github-ai",
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "description": "",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
-        "github-copilot",
+        "industry-news",
         "software-engineering"
       ],
-      "score": 3,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
+      "score": 2,
+      "queuedAt": "2026-03-24T03:43:02.022Z"
     },
     {
       "title": "Trump&#8217;s AI framework targets state laws, shifts child safety burden to parents",
@@ -126,6 +126,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-16T03:59:33.154Z"
+    },
+    {
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "description": "",
+      "pubDate": "Mon, 23 Mar 2026 22:36:39 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-24T03:43:02.022Z"
+    },
+    {
+      "title": "Bernie Sanders&#8217; AI &#8216;gotcha&#8217; video flops, but the memes are great",
+      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "description": "",
+      "pubDate": "Mon, 23 Mar 2026 20:15:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-24T03:43:02.022Z"
+    },
+    {
+      "title": "Apple sets June date for WWDC 2026, teasing &#8216;AI advancements&#8217;",
+      "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+      "description": "",
+      "pubDate": "Mon, 23 Mar 2026 18:00:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-24T03:43:02.022Z"
+    },
+    {
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "description": "",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-24T03:43:02.022Z"
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "description": "",
+      "pubDate": "Mon, 23 Mar 2026 15:03:36 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-24T03:43:02.022Z"
     },
     {
       "title": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple",
@@ -635,6 +705,17 @@
       "links": [
         "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
         "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "files": [
+        "github-ai-2026-03-24-from-idea-to-pull-request-a-practical-guide-to-building-with-github-co-5f5e4978ab.mdx",
+        "techcrunch-ai-2026-03-24-vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions-fc3df5753e.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
+        "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
       ]
     }
   ]
