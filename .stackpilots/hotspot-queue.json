@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "description": "",
+      "pubDate": "Thu, 26 Mar 2026 13:41:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-27T04:06:24.442Z"
+    },
+    {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
       "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
       "description": "",
@@ -156,18 +170,60 @@
       "queuedAt": "2026-03-18T03:49:47.424Z"
     },
     {
-      "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
-      "link": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
-      "description": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often fail. Here’s how to engineer ones that don’t. appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Tue, 24 Feb 2026 16:00:00 +0000",
-      "feedKey": "github-ai",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "description": "",
+      "pubDate": "Fri, 27 Mar 2026 01:18:38 +0000",
+      "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
-        "github-copilot",
+        "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-03-16T03:59:33.154Z"
+      "score": 1,
+      "queuedAt": "2026-03-27T04:06:24.442Z"
+    },
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "description": "",
+      "pubDate": "Thu, 26 Mar 2026 21:50:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-27T04:06:24.442Z"
+    },
+    {
+      "title": "ByteDance&#8217;s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "description": "",
+      "pubDate": "Thu, 26 Mar 2026 15:25:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-27T04:06:24.442Z"
+    },
+    {
+      "title": "A ‘pound of flesh’ from data centers: one senator&#8217;s answer to AI job losses",
+      "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "description": "",
+      "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-27T04:06:24.442Z"
     },
     {
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
@@ -906,6 +962,17 @@
       "links": [
         "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
         "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "files": [
+        "techcrunch-ai-2026-03-27-openai-abandons-yet-another-side-quest-chatgpt-8217-s-erotic-mode-c2ebba0850.mdx",
+        "github-ai-2026-03-27-multi-agent-workflows-often-fail-here-s-how-to-engineer-ones-that-don--d37e2018c5.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+        "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/"
       ]
     }
   ]
