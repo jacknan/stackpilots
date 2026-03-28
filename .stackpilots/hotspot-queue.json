@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-      "description": "",
-      "pubDate": "Thu, 26 Mar 2026 13:41:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-27T04:06:24.442Z"
-    },
-    {
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "description": "",
-      "pubDate": "Wed, 25 Mar 2026 00:47:20 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-25T03:46:07.914Z"
-    },
-    {
       "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
       "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
       "description": "",
@@ -168,6 +140,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "description": "",
+      "pubDate": "Fri, 27 Mar 2026 21:44:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-28T03:45:20.837Z"
+    },
+    {
+      "title": "VCs are betting billions on AI&#8217;s next wave, so why is OpenAI killing Sora?",
+      "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+      "description": "",
+      "pubDate": "Fri, 27 Mar 2026 15:40:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-28T03:45:20.837Z"
+    },
+    {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "description": "",
+      "pubDate": "Fri, 27 Mar 2026 13:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-28T03:45:20.837Z"
+    },
+    {
+      "title": "David Sacks is done as AI czar &#8212; here&#8217;s what he&#8217;s doing instead",
+      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "description": "",
+      "pubDate": "Fri, 27 Mar 2026 01:26:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-28T03:45:20.837Z"
     },
     {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
@@ -973,6 +1001,17 @@
       "links": [
         "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
         "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/"
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "files": [
+        "techcrunch-ai-2026-03-28-conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engi-083ef13288.mdx",
+        "techcrunch-ai-2026-03-28-with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai-2786f82d4e.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+        "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
       ]
     }
   ]
