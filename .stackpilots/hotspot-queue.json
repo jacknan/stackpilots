@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-      "description": "",
-      "pubDate": "Tue, 24 Mar 2026 20:56:25 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-25T03:46:07.914Z"
-    },
-    {
       "title": "Databricks bought two startups to underpin its new AI security product",
       "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
       "description": "",
@@ -140,6 +126,48 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "description": "",
+      "pubDate": "Sat, 28 Mar 2026 23:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-29T04:11:06.647Z"
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "description": "",
+      "pubDate": "Sat, 28 Mar 2026 20:45:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-29T04:11:06.647Z"
+    },
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "description": "",
+      "pubDate": "Sat, 28 Mar 2026 16:11:16 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-29T04:11:06.647Z"
     },
     {
       "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
@@ -1012,6 +1040,17 @@
       "links": [
         "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
         "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+      ]
+    },
+    {
+      "date": "2026-03-29",
+      "files": [
+        "techcrunch-ai-2026-03-29-anthropic-8217-s-claude-popularity-with-paying-consumers-is-skyrocketi-bf0a5c1359.mdx",
+        "techcrunch-ai-2026-03-29-spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-a-fbb66e027f.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+        "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
       ]
     }
   ]
