@@ -9,6 +9,7 @@ import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import AdsterraBanner from '@/components/ads/AdsterraBanner'
 
 const editUrl = (path) => `${siteMetadata.siteRepo}/blob/main/data/${path}`
 const discussUrl = (path) =>
@@ -32,6 +33,21 @@ interface LayoutProps {
 export default function PostLayout({ content, authorDetails, next, prev, children }: LayoutProps) {
   const { filePath, path, slug, date, title, tags } = content
   const basePath = path.split('/')[0]
+  const adsterraBannerKey = process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY || ''
+  const adsterraBannerSrc = process.env.NEXT_PUBLIC_ADSTERRA_BANNER_SRC || ''
+  const adsterraBannerWidth = Number.parseInt(
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_WIDTH || '300',
+    10
+  )
+  const adsterraBannerHeight = Number.parseInt(
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_HEIGHT || '250',
+    10
+  )
+  const shouldShowAdsterraBanner =
+    process.env.NODE_ENV === 'production' &&
+    Boolean(adsterraBannerKey && adsterraBannerSrc) &&
+    Number.isFinite(adsterraBannerWidth) &&
+    Number.isFinite(adsterraBannerHeight)
 
   return (
     <SectionContainer>
@@ -95,6 +111,20 @@ export default function PostLayout({ content, authorDetails, next, prev, childre
             </dl>
             <div className="divide-y divide-gray-200 xl:col-span-3 xl:row-span-2 xl:pb-0 dark:divide-gray-700">
               <div className="prose dark:prose-invert max-w-none pt-10 pb-8">{children}</div>
+              {shouldShowAdsterraBanner && (
+                <div className="py-8">
+                  <p className="mb-3 text-center text-xs font-semibold tracking-wide text-gray-500 uppercase dark:text-gray-400">
+                    Sponsored
+                  </p>
+                  <AdsterraBanner
+                    adKey={adsterraBannerKey}
+                    scriptSrc={adsterraBannerSrc}
+                    width={adsterraBannerWidth}
+                    height={adsterraBannerHeight}
+                    className="not-prose flex justify-center"
+                  />
+                </div>
+              )}
               <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
                 <Link href={discussUrl(path)} rel="nofollow">
                   Discuss on Twitter

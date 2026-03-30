@@ -7,13 +7,13 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app analytics.umami.is cloud.umami.is static.cloudflareinsights.com pagead2.googlesyndication.com *.googlesyndication.com *.doubleclick.net *.googleadservices.com ep1.adtrafficquality.google ep2.adtrafficquality.google *.profitablecpmratenetwork.com *.preferencenail.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app analytics.umami.is cloud.umami.is static.cloudflareinsights.com pagead2.googlesyndication.com *.googlesyndication.com *.doubleclick.net *.googleadservices.com ep1.adtrafficquality.google ep2.adtrafficquality.google *.profitablecpmratenetwork.com *.highperformanceformat.com *.adsterra.com;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src *.s3.amazonaws.com;
   connect-src *;
   font-src 'self';
-  frame-src giscus.app *.googlesyndication.com *.doubleclick.net *.googleadservices.com ep2.adtrafficquality.google www.google.com *.profitablecpmratenetwork.com;
+  frame-src giscus.app *.googlesyndication.com *.doubleclick.net *.googleadservices.com ep2.adtrafficquality.google www.google.com *.profitablecpmratenetwork.com *.highperformanceformat.com *.adsterra.com;
 `
 
 const securityHeaders = [

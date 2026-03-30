@@ -8,6 +8,7 @@ import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import AdsterraBanner from '@/components/ads/AdsterraBanner'
 
 interface LayoutProps {
   content: CoreContent<Blog>
@@ -18,6 +19,21 @@ interface LayoutProps {
 
 export default function PostLayout({ content, next, prev, children }: LayoutProps) {
   const { path, slug, date, title } = content
+  const adsterraBannerKey = process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY || ''
+  const adsterraBannerSrc = process.env.NEXT_PUBLIC_ADSTERRA_BANNER_SRC || ''
+  const adsterraBannerWidth = Number.parseInt(
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_WIDTH || '300',
+    10
+  )
+  const adsterraBannerHeight = Number.parseInt(
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_HEIGHT || '250',
+    10
+  )
+  const shouldShowAdsterraBanner =
+    process.env.NODE_ENV === 'production' &&
+    Boolean(adsterraBannerKey && adsterraBannerSrc) &&
+    Number.isFinite(adsterraBannerWidth) &&
+    Number.isFinite(adsterraBannerHeight)
 
   return (
     <SectionContainer>
@@ -42,6 +58,20 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
           <div className="grid-rows-[auto_1fr] divide-y divide-gray-200 pb-8 xl:divide-y-0 dark:divide-gray-700">
             <div className="divide-y divide-gray-200 xl:col-span-3 xl:row-span-2 xl:pb-0 dark:divide-gray-700">
               <div className="prose dark:prose-invert max-w-none pt-10 pb-8">{children}</div>
+              {shouldShowAdsterraBanner && (
+                <div className="py-8">
+                  <p className="mb-3 text-center text-xs font-semibold tracking-wide text-gray-500 uppercase dark:text-gray-400">
+                    Sponsored
+                  </p>
+                  <AdsterraBanner
+                    adKey={adsterraBannerKey}
+                    scriptSrc={adsterraBannerSrc}
+                    width={adsterraBannerWidth}
+                    height={adsterraBannerHeight}
+                    className="not-prose flex justify-center"
+                  />
+                </div>
+              )}
             </div>
             {siteMetadata.comments && (
               <div className="pt-6 pb-6 text-center text-gray-700 dark:text-gray-300" id="comment">
