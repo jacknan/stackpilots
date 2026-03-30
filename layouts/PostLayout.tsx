@@ -9,7 +9,7 @@ import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
-import AdsterraBanner from '@/components/ads/AdsterraBanner'
+import AdsterraResponsiveBanner from '@/components/ads/AdsterraResponsiveBanner'
 
 const editUrl = (path) => `${siteMetadata.siteRepo}/blob/main/data/${path}`
 const discussUrl = (path) =>
@@ -33,21 +33,31 @@ interface LayoutProps {
 export default function PostLayout({ content, authorDetails, next, prev, children }: LayoutProps) {
   const { filePath, path, slug, date, title, tags } = content
   const basePath = path.split('/')[0]
-  const adsterraBannerKey = process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY || ''
-  const adsterraBannerSrc = process.env.NEXT_PUBLIC_ADSTERRA_BANNER_SRC || ''
-  const adsterraBannerWidth = Number.parseInt(
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_WIDTH || '300',
-    10
-  )
-  const adsterraBannerHeight = Number.parseInt(
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_HEIGHT || '250',
-    10
-  )
-  const shouldShowAdsterraBanner =
-    process.env.NODE_ENV === 'production' &&
-    Boolean(adsterraBannerKey && adsterraBannerSrc) &&
-    Number.isFinite(adsterraBannerWidth) &&
-    Number.isFinite(adsterraBannerHeight)
+  const mobileBanner = {
+    key: process.env.NEXT_PUBLIC_ADSTERRA_BANNER_MOBILE_KEY || 'b82be0fede991af90817c4db78e6f327',
+    scriptSrc:
+      process.env.NEXT_PUBLIC_ADSTERRA_BANNER_MOBILE_SRC ||
+      'https://www.highperformanceformat.com/b82be0fede991af90817c4db78e6f327/invoke.js',
+    width: 320,
+    height: 50,
+  }
+  const mediumBanner = {
+    key: process.env.NEXT_PUBLIC_ADSTERRA_BANNER_RECT_KEY || '6274b0e36aef3eb9b13d943694fdb868',
+    scriptSrc:
+      process.env.NEXT_PUBLIC_ADSTERRA_BANNER_RECT_SRC ||
+      'https://www.highperformanceformat.com/6274b0e36aef3eb9b13d943694fdb868/invoke.js',
+    width: 300,
+    height: 250,
+  }
+  const desktopBanner = {
+    key: process.env.NEXT_PUBLIC_ADSTERRA_BANNER_DESKTOP_KEY || 'cf4e42705131c9ed3f786b9526d8ab03',
+    scriptSrc:
+      process.env.NEXT_PUBLIC_ADSTERRA_BANNER_DESKTOP_SRC ||
+      'https://www.highperformanceformat.com/cf4e42705131c9ed3f786b9526d8ab03/invoke.js',
+    width: 728,
+    height: 90,
+  }
+  const shouldShowAdsterraBanner = process.env.NODE_ENV === 'production'
 
   return (
     <SectionContainer>
@@ -116,11 +126,10 @@ export default function PostLayout({ content, authorDetails, next, prev, childre
                   <p className="mb-3 text-center text-xs font-semibold tracking-wide text-gray-500 uppercase dark:text-gray-400">
                     Sponsored
                   </p>
-                  <AdsterraBanner
-                    adKey={adsterraBannerKey}
-                    scriptSrc={adsterraBannerSrc}
-                    width={adsterraBannerWidth}
-                    height={adsterraBannerHeight}
+                  <AdsterraResponsiveBanner
+                    mobile={mobileBanner}
+                    medium={mediumBanner}
+                    desktop={desktopBanner}
                     className="not-prose flex justify-center"
                   />
                 </div>
