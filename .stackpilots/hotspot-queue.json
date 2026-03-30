@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-      "description": "",
-      "pubDate": "Tue, 24 Mar 2026 20:40:56 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-25T03:46:07.914Z"
-    },
-    {
-      "title": "OpenAI&#8217;s plans to make ChatGPT more like Amazon aren&#8217;t going so well",
-      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-      "description": "",
-      "pubDate": "Tue, 24 Mar 2026 19:27:56 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-25T03:46:07.914Z"
-    },
-    {
       "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
       "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
       "description": "",
@@ -126,6 +98,34 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "Why OpenAI really shut down Sora",
+      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 03:09:38 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-30T04:18:32.386Z"
+    },
+    {
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "description": "",
+      "pubDate": "Sun, 29 Mar 2026 16:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-30T04:18:32.386Z"
     },
     {
       "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
@@ -1051,6 +1051,17 @@
       "links": [
         "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
         "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "files": [
+        "techcrunch-ai-2026-03-30-databricks-bought-two-startups-to-underpin-its-new-ai-security-product-7571dce417.mdx",
+        "techcrunch-ai-2026-03-30-openai-8217-s-plans-to-make-chatgpt-more-like-amazon-aren-8217-t-going-49fa52d3ca.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+        "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
       ]
     }
   ]
