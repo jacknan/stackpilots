@@ -71,7 +71,11 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const basePath = process.env.BASE_PATH || ''
   const adSenseClientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || 'ca-pub-8617213199023571'
+  const adsterraPopunderSrc =
+    process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_SRC ||
+    'https://pl29013667.profitablecpmratenetwork.com/d6/e9/3f/d6e93f5d2afcb9ca320f7eee1ea99878.js'
   const shouldLoadAdSense = process.env.NODE_ENV === 'production' && Boolean(adSenseClientId)
+  const shouldLoadAdsterra = process.env.NODE_ENV === 'production' && Boolean(adsterraPopunderSrc)
   const webSiteSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -129,6 +133,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
       <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
+        {shouldLoadAdsterra && (
+          <Script id="adsterra-popunder" src={adsterraPopunderSrc} strategy="beforeInteractive" />
+        )}
         {shouldLoadAdSense && (
           <Script
             async
