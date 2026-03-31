@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 23:08:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
+    },
+    {
       "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
       "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
       "description": "",
@@ -98,6 +112,90 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "15% of Americans say they&#8217;d be willing to work for an AI boss, according to new poll",
+      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 23:41:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
+    },
+    {
+      "title": "Mantis Biotech is making &#8216;digital twins&#8217; of humans to help solve medicine&#8217;s data availability problem",
+      "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 14:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
+    },
+    {
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 13:52:02 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
+    },
+    {
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
+    },
+    {
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 12:49:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
+    },
+    {
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "description": "",
+      "pubDate": "Mon, 30 Mar 2026 11:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-03-31T04:08:25.477Z"
     },
     {
       "title": "Why OpenAI really shut down Sora",
@@ -1062,6 +1160,17 @@
       "links": [
         "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
         "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "files": [
+        "techcrunch-ai-2026-03-31-qodo-raises-70m-for-code-verification-as-ai-coding-scales-44164a1a11.mdx",
+        "techcrunch-ai-2026-03-31-as-more-americans-adopt-ai-tools-fewer-say-they-can-trust-the-results-2aa5022243.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+        "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"
       ]
     }
   ]
