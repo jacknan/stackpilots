@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-      "description": "",
-      "pubDate": "Mon, 30 Mar 2026 23:08:12 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-31T04:08:25.477Z"
-    },
-    {
       "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
       "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
       "description": "",
@@ -112,6 +98,34 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "description": "",
+      "pubDate": "Wed, 01 Apr 2026 22:12:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-02T04:01:32.884Z"
+    },
+    {
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "description": "",
+      "pubDate": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-02T04:01:32.884Z"
     },
     {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
@@ -1266,6 +1280,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
         "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "files": [
+        "github-ai-2026-04-02-run-multiple-agents-at-once-with-fleet-in-copilot-cli-740e1f6f3e.mdx",
+        "techcrunch-ai-2026-04-02-popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve-d53939cc9d.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+        "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
       ]
     }
   ]
