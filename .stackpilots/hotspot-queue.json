@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "description": "",
-      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-24T03:43:02.022Z"
-    },
-    {
-      "title": "Trump&#8217;s AI framework targets state laws, shifts child safety burden to parents",
-      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "description": "",
-      "pubDate": "Fri, 20 Mar 2026 16:14:04 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-21T03:30:36.349Z"
-    },
-    {
       "title": "Meta is having trouble with rogue AI agents",
       "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
       "description": "",
@@ -98,6 +70,34 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "description": "",
+      "pubDate": "Thu, 02 Apr 2026 19:21:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-03T04:02:30.694Z"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "description": "",
+      "pubDate": "Thu, 02 Apr 2026 16:48:16 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-03T04:02:30.694Z"
     },
     {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
@@ -1291,6 +1291,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
         "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "files": [
+        "techcrunch-ai-2026-04-03-littlebird-raises-11m-for-its-ai-assisted-recall-tool-that-reads-your--35efd0ac4e.mdx",
+        "techcrunch-ai-2026-04-03-trump-8217-s-ai-framework-targets-state-laws-shifts-child-safety-burde-741ca3a871.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+        "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
       ]
     }
   ]
