@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Meta is having trouble with rogue AI agents",
-      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "description": "",
-      "pubDate": "Wed, 18 Mar 2026 23:42:46 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-19T03:49:00.994Z"
-    },
-    {
-      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-      "description": "",
-      "pubDate": "Wed, 18 Mar 2026 20:30:52 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-19T03:49:00.994Z"
-    },
-    {
       "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
       "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
       "description": "",
@@ -70,6 +42,48 @@
       ],
       "score": 2,
       "queuedAt": "2026-03-18T03:49:47.424Z"
+    },
+    {
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "description": "",
+      "pubDate": "Fri, 03 Apr 2026 20:35:34 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-04T03:43:04.323Z"
+    },
+    {
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "description": "",
+      "pubDate": "Fri, 03 Apr 2026 19:48:22 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-04T03:43:04.323Z"
+    },
+    {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "description": "",
+      "pubDate": "Fri, 03 Apr 2026 14:00:15 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-04T03:43:04.323Z"
     },
     {
       "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
@@ -1302,6 +1316,17 @@
       "links": [
         "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
         "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "files": [
+        "techcrunch-ai-2026-04-04-meta-is-having-trouble-with-rogue-ai-agents-4f7e7c64ba.mdx",
+        "techcrunch-ai-2026-04-04-nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents--38cc7898d8.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"
       ]
     }
   ]
