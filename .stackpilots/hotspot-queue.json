@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-      "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-      "description": "",
-      "pubDate": "Wed, 18 Mar 2026 17:15:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-03-19T03:49:00.994Z"
-    },
-    {
       "title": "This startup wants to make enterprise software look more like a prompt",
       "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
       "description": "",
@@ -1327,6 +1313,17 @@
       "links": [
         "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
         "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "files": [
+        "techcrunch-ai-2026-04-05-anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-open-216547e3d6.mdx",
+        "techcrunch-ai-2026-04-05-rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators-9ce24b587b.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"
       ]
     }
   ]
