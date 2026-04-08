@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "Firmus, the &#8216;Southgate&#8217; AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "description": "",
+      "pubDate": "Tue, 07 Apr 2026 18:46:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-08T04:09:07.994Z"
+    },
+    {
+      "title": "Uber is the latest to be won over by Amazon&#8217;s AI chips",
+      "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "description": "",
+      "pubDate": "Tue, 07 Apr 2026 16:46:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-08T04:09:07.994Z"
+    },
+    {
+      "title": "Google Maps can now write captions for your photos using AI",
+      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "description": "",
+      "pubDate": "Tue, 07 Apr 2026 15:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-08T04:09:07.994Z"
+    },
+    {
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+      "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+      "description": "",
+      "pubDate": "Tue, 07 Apr 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-08T04:09:07.994Z"
+    },
+    {
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+      "description": "",
+      "pubDate": "Tue, 07 Apr 2026 05:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-08T04:09:07.994Z"
+    },
+    {
       "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
       "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
       "description": "",
@@ -1402,6 +1472,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
         "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/"
+      ]
+    },
+    {
+      "date": "2026-04-08",
+      "files": [
+        "techcrunch-ai-2026-04-08-anthropic-debuts-preview-of-powerful-new-ai-model-mythos-in-new-cybers-8a5471b1c8.mdx",
+        "techcrunch-ai-2026-04-08-i-can-8217-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee-0b017d9b9b.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+        "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
       ]
     }
   ]
