@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "Astropad&#8217;s Workbench reimagines remote desktop for AI agents, not IT support",
+      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "description": "",
+      "pubDate": "Wed, 08 Apr 2026 16:01:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-04-09T04:04:31.832Z"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "description": "",
+      "pubDate": "Wed, 08 Apr 2026 20:09:14 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-09T04:04:31.832Z"
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "description": "",
+      "pubDate": "Wed, 08 Apr 2026 18:23:06 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-09T04:04:31.832Z"
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "description": "",
+      "pubDate": "Wed, 08 Apr 2026 15:23:44 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-09T04:04:31.832Z"
+    },
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "description": "",
+      "pubDate": "Wed, 08 Apr 2026 05:40:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-09T04:04:31.832Z"
+    },
+    {
       "title": "Firmus, the &#8216;Southgate&#8217; AI data center builder backed by Nvidia, hits $5.5B valuation",
       "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
       "description": "",
@@ -1483,6 +1553,17 @@
       "links": [
         "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
         "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "files": [
+        "techcrunch-ai-2026-04-09-atlassian-launches-visual-ai-tools-and-third-party-agents-in-confluenc-1317246550.mdx",
+        "techcrunch-ai-2026-04-09-poke-makes-using-ai-agents-as-easy-as-sending-a-text-754500618b.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+        "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
       ]
     }
   ]
