@@ -2,18 +2,60 @@
   "version": 1,
   "queue": [
     {
-      "title": "Astropad&#8217;s Workbench reimagines remote desktop for AI agents, not IT support",
-      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "description": "",
-      "pubDate": "Wed, 08 Apr 2026 16:01:09 +0000",
+      "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-04-09T04:04:31.832Z"
+      "score": 1,
+      "queuedAt": "2026-04-10T04:19:43.421Z"
+    },
+    {
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "description": "",
+      "pubDate": "Thu, 09 Apr 2026 19:10:07 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-10T04:19:43.421Z"
+    },
+    {
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "description": "",
+      "pubDate": "Thu, 09 Apr 2026 18:27:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-10T04:19:43.421Z"
+    },
+    {
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "description": "",
+      "pubDate": "Thu, 09 Apr 2026 14:27:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-10T04:19:43.421Z"
     },
     {
       "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
@@ -1564,6 +1606,17 @@
       "links": [
         "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
         "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "files": [
+        "techcrunch-ai-2026-04-10-florida-ag-announces-investigation-into-openai-over-shooting-that-alle-ac766d225d.mdx",
+        "techcrunch-ai-2026-04-10-astropad-8217-s-workbench-reimagines-remote-desktop-for-ai-agents-not--9700974f21.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
       ]
     }
   ]
