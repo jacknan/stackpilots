@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
+      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "description": "",
+      "pubDate": "Fri, 10 Apr 2026 16:41:34 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-04-11T03:47:38.183Z"
+    },
+    {
       "title": "ChatGPT finally offers $100/month Pro plan",
       "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "description": "",
@@ -1617,6 +1631,17 @@
       "links": [
         "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
         "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
+      ]
+    },
+    {
+      "date": "2026-04-11",
+      "files": [
+        "techcrunch-ai-2026-04-11-anthropic-temporarily-banned-openclaw-8217-s-creator-from-accessing-cl-eaa386e39c.mdx",
+        "github-ai-2026-04-11-github-copilot-cli-for-beginners-getting-started-with-github-copilot-c-164cd28803.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/"
       ]
     }
   ]
