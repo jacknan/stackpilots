@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
-      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "description": "",
-      "pubDate": "Fri, 10 Apr 2026 16:41:34 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-04-11T03:47:38.183Z"
-    },
-    {
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "description": "",
-      "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-04-10T04:19:43.421Z"
-    },
-    {
       "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
       "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
       "description": "",
@@ -1642,6 +1614,17 @@
       "links": [
         "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/"
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "files": [
+        "techcrunch-ai-2026-04-12-stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-8217-s-de-877339fd08.mdx",
+        "techcrunch-ai-2026-04-12-chatgpt-finally-offers-100-month-pro-plan-faf4eb3e7d.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+        "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
       ]
     }
   ]
