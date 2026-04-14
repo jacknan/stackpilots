@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "description": "",
+      "pubDate": "Mon, 13 Apr 2026 19:05:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-14T04:19:46.607Z"
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "description": "",
+      "pubDate": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-14T04:19:46.607Z"
+    },
+    {
       "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
       "description": "",
@@ -1650,6 +1678,17 @@
       "links": [
         "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
         "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "files": [
+        "techcrunch-ai-2026-04-14-vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-rev-a2eadf485a.mdx",
+        "techcrunch-ai-2026-04-14-openai-has-bought-ai-personal-finance-startup-hiro-8855860267.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+        "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
       ]
     }
   ]
