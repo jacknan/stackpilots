@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "Anthropic&#8217;s rise is giving some OpenAI investors second thoughts",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 02:31:04 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-15T04:18:55.002Z"
+    },
+    {
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "description": "",
+      "pubDate": "Tue, 14 Apr 2026 17:13:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-15T04:18:55.002Z"
+    },
+    {
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "description": "",
+      "pubDate": "Tue, 14 Apr 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-15T04:18:55.002Z"
+    },
+    {
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
       "description": "",
@@ -1689,6 +1731,17 @@
       "links": [
         "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
         "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "files": [
+        "github-ai-2026-04-15-hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-sec-ed860607c7.mdx",
+        "techcrunch-ai-2026-04-15-how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-t-6439805f84.mdx"
+      ],
+      "links": [
+        "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+        "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
       ]
     }
   ]
