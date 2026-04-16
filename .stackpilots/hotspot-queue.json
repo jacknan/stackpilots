@@ -2,6 +2,132 @@
   "version": 1,
   "queue": [
     {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 18:55:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 19:28:36 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "LinkedIn data shows AI isn&#8217;t to blame for hiring decline&#8230; yet",
+      "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 18:51:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 18:38:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 18:33:20 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 17:58:28 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 14:24:31 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "Adobe&#8217;s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "description": "",
+      "pubDate": "Wed, 15 Apr 2026 13:01:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
       "title": "Anthropic&#8217;s rise is giving some OpenAI investors second thoughts",
       "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
       "description": "",
@@ -1742,6 +1868,17 @@
       "links": [
         "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
         "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "files": [
+        "github-ai-2026-04-16-build-a-personal-organization-command-center-with-github-copilot-cli-c84f8d8abf.mdx",
+        "techcrunch-ai-2026-04-16-india-8217-s-vibe-coding-startup-emergent-enters-openclaw-like-ai-agen-fe9d348064.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+        "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/"
       ]
     }
   ]
