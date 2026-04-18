@@ -30,6 +30,20 @@
       "queuedAt": "2026-04-16T04:25:18.898Z"
     },
     {
+      "title": "&#8216;Tokenmaxxing&#8217; is making developers less productive than they think",
+      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "description": "",
+      "pubDate": "Fri, 17 Apr 2026 18:42:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-04-18T04:05:04.716Z"
+    },
+    {
       "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
       "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
       "description": "",
@@ -70,6 +84,48 @@
       ],
       "score": 2,
       "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests&#8217;",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "description": "",
+      "pubDate": "Fri, 17 Apr 2026 20:38:17 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-18T04:05:04.716Z"
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "description": "",
+      "pubDate": "Fri, 17 Apr 2026 19:17:26 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-18T04:05:04.716Z"
+    },
+    {
+      "title": "Tokenmaxxing, OpenAI&#8217;s shopping spree, and the AI Anxiety Gap",
+      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "description": "",
+      "pubDate": "Fri, 17 Apr 2026 15:57:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-18T04:05:04.716Z"
     },
     {
       "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
@@ -2002,6 +2058,17 @@
       "links": [
         "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
         "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "files": [
+        "github-ai-2026-04-18-building-an-emoji-list-generator-with-the-github-copilot-cli-4c4aa325b9.mdx",
+        "techcrunch-ai-2026-04-18-anthropic-launches-claude-design-a-new-product-for-creating-quick-visu-8277861726.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+        "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/"
       ]
     }
   ]
