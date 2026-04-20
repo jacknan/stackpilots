@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "&#8216;Tokenmaxxing&#8217; is making developers less productive than they think",
-      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "description": "",
-      "pubDate": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-04-18T04:05:04.716Z"
-    },
-    {
-      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-      "description": "",
-      "pubDate": "Thu, 16 Apr 2026 16:15:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-04-17T04:23:06.755Z"
-    },
-    {
       "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
       "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
       "description": "",
@@ -56,6 +28,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-04-16T04:25:18.898Z"
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "description": "",
+      "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-20T04:30:27.782Z"
     },
     {
       "title": "AI chip startup Cerebras files for IPO",
@@ -2080,6 +2066,17 @@
       "links": [
         "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
         "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/"
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "files": [
+        "techcrunch-ai-2026-04-20-8216-tokenmaxxing-8217-is-making-developers-less-productive-than-they--cb26b391d8.mdx",
+        "techcrunch-ai-2026-04-20-insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents--7aa8ce21ac.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+        "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/"
       ]
     }
   ]
