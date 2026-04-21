@@ -2,32 +2,18 @@
   "version": 1,
   "queue": [
     {
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
       "description": "",
-      "pubDate": "Wed, 15 Apr 2026 19:28:36 +0000",
+      "pubDate": "Mon, 20 Apr 2026 15:30:19 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-04-16T04:25:18.898Z"
-    },
-    {
-      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-      "description": "",
-      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-04-16T04:25:18.898Z"
+      "score": 1,
+      "queuedAt": "2026-04-21T04:21:59.845Z"
     },
     {
       "title": "OpenAI’s existential questions",
@@ -2077,6 +2063,17 @@
       "links": [
         "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
         "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "files": [
+        "techcrunch-ai-2026-04-21-openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-cap-c8875868e9.mdx",
+        "techcrunch-ai-2026-04-21-gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-w-71c1334a9d.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+        "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/"
       ]
     }
   ]
