@@ -2,6 +2,104 @@
   "version": 1,
   "queue": [
     {
+      "title": "Meta will record employees&#8217; keystrokes and use it to train its AI models",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 23:45:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
+      "title": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text",
+      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 17:11:01 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 15:24:29 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 15:02:06 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "description": "",
+      "pubDate": "Tue, 21 Apr 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-22T04:20:04.901Z"
+    },
+    {
       "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
       "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
       "description": "",
@@ -2074,6 +2172,17 @@
       "links": [
         "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
         "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/"
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "files": [
+        "techcrunch-ai-2026-04-22-unauthorized-group-has-gained-access-to-anthropic-8217-s-exclusive-cyb-05d61a9799.mdx",
+        "techcrunch-ai-2026-04-22-ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-97ce98245a.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+        "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/"
       ]
     }
   ]
