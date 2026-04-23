@@ -2,6 +2,118 @@
   "version": 1,
   "queue": [
     {
+      "title": "Google updates Workspace to make AI your new office intern",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 22:44:26 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "Hands on with X&#8217;s new AI-powered custom feeds",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 22:25:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 19:51:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 18:39:27 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 17:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "AI Overviews are coming to your Gmail at work",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 16:46:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+      "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
+      "title": "Google Maps is about to get a big dose of AI",
+      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "description": "",
+      "pubDate": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-23T04:23:35.605Z"
+    },
+    {
       "title": "Meta will record employees&#8217; keystrokes and use it to train its AI models",
       "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
       "description": "",
@@ -2183,6 +2295,17 @@
       "links": [
         "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
         "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "files": [
+        "techcrunch-ai-2026-04-23-openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses-32a1362aee.mdx",
+        "techcrunch-ai-2026-04-23-google-makes-an-interesting-choice-with-its-new-agent-building-tool-fo-5d344a4bc5.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+        "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/"
       ]
     }
   ]
