@@ -7,6 +7,11 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: 'Bank PDF Parser',
+    description: `Convert bank statement PDFs into structured data with a lightweight backend and a clean browser workflow. Built as a live utility for statement parsing and future finance automation work.`,
+    href: 'https://bank.stackpilots.org/',
+  },
+  {
     title: 'A Search Engine',
     description: `What if you could look up any information in the world? Webpages, images, videos
     and more. Google has many features to help you find exactly what you're looking

@@ -1,0 +1,5 @@
+{
+  "name": "opencode-runner-local",
+  "description": "Stable local one-click runner using deterministic JSON generator",
+  "command": "node ./scripts/agents/local-agent.mjs --step {step} --input {input} --output {output}"
+}

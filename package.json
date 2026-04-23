@@ -9,6 +9,11 @@
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",
+    "agents:init": "node ./scripts/agents/orchestrate.mjs init",
+    "agents:status": "node ./scripts/agents/orchestrate.mjs status",
+    "agents:complete": "node ./scripts/agents/orchestrate.mjs complete",
+    "agents:run-step": "node ./scripts/agents/orchestrate.mjs run-step",
+    "agents:run-all": "node ./scripts/agents/orchestrate.mjs run-all",
     "prepare": "husky"
   },
   "dependencies": {

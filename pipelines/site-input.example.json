@@ -1,0 +1,14 @@
+{
+  "site": {
+    "name": "StackPilots Clone",
+    "domain": "example.com",
+    "lang": "en",
+    "topic": "AI developer tooling"
+  },
+  "constraints": {
+    "monetization": ["adsense"],
+    "geo": "global",
+    "timeline_days": 14,
+    "content_volume_first_month": 30
+  }
+}

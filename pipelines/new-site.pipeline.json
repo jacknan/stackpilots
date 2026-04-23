@@ -1,0 +1,30 @@
+{
+  "name": "new-site-4plus1",
+  "version": 1,
+  "steps": [
+    {
+      "id": "product",
+      "prompt": "agents/product-agent.md",
+      "output": "outputs/product.json",
+      "schema": "schemas/product-output.schema.json"
+    },
+    {
+      "id": "seo",
+      "prompt": "agents/seo-agent.md",
+      "output": "outputs/seo.json",
+      "schema": "schemas/seo-output.schema.json"
+    },
+    {
+      "id": "dev",
+      "prompt": "agents/dev-agent.md",
+      "output": "outputs/dev.json",
+      "schema": "schemas/dev-output.schema.json"
+    },
+    {
+      "id": "ops",
+      "prompt": "agents/ops-agent.md",
+      "output": "outputs/ops.json",
+      "schema": "schemas/ops-output.schema.json"
+    }
+  ]
+}

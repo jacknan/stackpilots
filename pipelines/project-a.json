@@ -1,0 +1,14 @@
+{
+  "site": {
+    "name": "Project A Test Lab",
+    "domain": "project-a.local",
+    "lang": "en",
+    "topic": "AI product discovery and delivery workflows"
+  },
+  "constraints": {
+    "monetization": ["adsense"],
+    "geo": "global",
+    "timeline_days": 14,
+    "content_volume_first_month": 12
+  }
+}

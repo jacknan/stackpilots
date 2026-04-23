@@ -1,0 +1,14 @@
+{
+  "site": {
+    "name": "Tailwind Blog Growth Lab",
+    "domain": "tailwindblog.local",
+    "lang": "en",
+    "topic": "Tailwind CSS, Next.js, and AI developer workflows"
+  },
+  "constraints": {
+    "monetization": ["adsense"],
+    "geo": "global",
+    "timeline_days": 21,
+    "content_volume_first_month": 24
+  }
+}

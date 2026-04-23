@@ -1,0 +1,11 @@
+{
+  "name": "opencode-runner-example",
+  "description": "Replace command with your local OpenCode CLI invocation",
+  "command": "opencode run --brief-file {brief} --input-file {input} --output-file {output}",
+  "steps": {
+    "product": "opencode run --agent product --brief-file {brief} --input-file {input} --output-file {output}",
+    "seo": "opencode run --agent seo --brief-file {brief} --input-file {input} --output-file {output}",
+    "dev": "opencode run --agent dev --brief-file {brief} --input-file {input} --output-file {output}",
+    "ops": "opencode run --agent ops --brief-file {brief} --input-file {input} --output-file {output}"
+  }
+}

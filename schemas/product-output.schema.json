@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProductAgentOutput",
+  "type": "object",
+  "required": ["status", "artifacts", "risks", "next_actions"],
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": ["ok", "fail"]
+    },
+    "artifacts": {
+      "type": "object",
+      "required": ["niche", "audience", "positioning", "monetization", "initial_offers"],
+      "properties": {
+        "niche": { "type": "string" },
+        "audience": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "positioning": { "type": "string" },
+        "monetization": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "initial_offers": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "risks": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "next_actions": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

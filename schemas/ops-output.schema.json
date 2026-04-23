@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OpsAgentOutput",
+  "type": "object",
+  "required": ["status", "artifacts", "risks", "next_actions"],
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": ["ok", "fail"]
+    },
+    "artifacts": {
+      "type": "object",
+      "required": ["launch_checklist", "monitoring", "incident_playbook", "weekly_kpis"],
+      "properties": {
+        "launch_checklist": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "monitoring": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "incident_playbook": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "weekly_kpis": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        }
+      }
+    },
+    "risks": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "next_actions": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

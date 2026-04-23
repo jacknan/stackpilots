@@ -26,6 +26,12 @@ const hubSections = [
       'Free browser utilities for JSON, JWT, Base64, regex, timestamps, and SVG optimization.',
   },
   {
+    href: '/projects',
+    title: 'Projects',
+    description:
+      'Featured products and experimental builds, including bank statement PDF conversion and other live apps.',
+  },
+  {
     href: '/frontend',
     title: 'Frontend',
     description:
@@ -55,6 +61,12 @@ export default function Home({ posts }) {
             className="border-primary-500 text-primary-600 dark:text-primary-400 dark:border-primary-400 rounded-lg border px-5 py-2 text-sm font-semibold"
           >
             Browse AI Tool Coverage
+          </Link>
+          <Link
+            href="https://bank.stackpilots.org/"
+            className="border-primary-500 text-primary-600 dark:text-primary-400 dark:border-primary-400 rounded-lg border px-5 py-2 text-sm font-semibold"
+          >
+            Open Bank PDF Parser
           </Link>
         </div>
       </section>
