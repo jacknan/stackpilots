@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "description": "",
+      "pubDate": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-04-24T04:27:42.784Z"
+    },
+    {
+      "title": "Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment",
+      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "description": "",
+      "pubDate": "Thu, 23 Apr 2026 21:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-24T04:27:42.784Z"
+    },
+    {
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "description": "",
+      "pubDate": "Thu, 23 Apr 2026 19:38:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-24T04:27:42.784Z"
+    },
+    {
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "description": "",
+      "pubDate": "Thu, 23 Apr 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-24T04:27:42.784Z"
+    },
+    {
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "description": "",
+      "pubDate": "Thu, 23 Apr 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-24T04:27:42.784Z"
+    },
+    {
+      "title": "India&#8217;s app market is booming — but global platforms are capturing most of the gains",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "description": "",
+      "pubDate": "Thu, 23 Apr 2026 04:38:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-24T04:27:42.784Z"
+    },
+    {
       "title": "Google updates Workspace to make AI your new office intern",
       "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
       "description": "",
@@ -2306,6 +2390,17 @@
       "links": [
         "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
         "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/"
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "files": [
+        "techcrunch-ai-2026-04-24-era-raises-11m-to-build-a-software-platform-for-ai-gadgets-7b764f9602.mdx",
+        "techcrunch-ai-2026-04-24-openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-8216-d3e4e99e02.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+        "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/"
       ]
     }
   ]
