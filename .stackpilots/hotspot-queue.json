@@ -2,18 +2,74 @@
   "version": 1,
   "queue": [
     {
-      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
-      "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "title": "Meta&#8217;s loss is Thinking Machines&#8217; gain",
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
       "description": "",
-      "pubDate": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "pubDate": "Fri, 24 Apr 2026 20:52:07 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-04-24T04:27:42.784Z"
+      "score": 1,
+      "queuedAt": "2026-04-25T04:08:29.510Z"
+    },
+    {
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "description": "",
+      "pubDate": "Fri, 24 Apr 2026 19:49:35 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-25T04:08:29.510Z"
+    },
+    {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "description": "",
+      "pubDate": "Fri, 24 Apr 2026 16:42:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-25T04:08:29.510Z"
+    },
+    {
+      "title": "DeepSeek previews new AI model that &#8216;closes the gap&#8217; with frontier models",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "description": "",
+      "pubDate": "Fri, 24 Apr 2026 13:30:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-25T04:08:29.510Z"
+    },
+    {
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "description": "",
+      "pubDate": "Fri, 24 Apr 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-25T04:08:29.510Z"
     },
     {
       "title": "Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment",
@@ -2401,6 +2457,17 @@
       "links": [
         "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
         "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/"
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "files": [
+        "techcrunch-ai-2026-04-25-nothing-introduces-an-ai-powered-dictation-tool-ea2a837089.mdx",
+        "techcrunch-ai-2026-04-25-beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizabl-b9e4cfbb0a.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+        "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/"
       ]
     }
   ]
