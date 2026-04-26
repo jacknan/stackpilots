@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "description": "",
+      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-26T04:32:27.611Z"
+    },
+    {
       "title": "Meta&#8217;s loss is Thinking Machines&#8217; gain",
       "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
       "description": "",
@@ -2468,6 +2482,17 @@
       "links": [
         "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
         "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/"
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "files": [
+        "techcrunch-ai-2026-04-26-anthropic-created-a-test-marketplace-for-agent-on-agent-commerce-2032f9324b.mdx",
+        "techcrunch-ai-2026-04-26-maine-8217-s-governor-vetoes-data-center-moratorium-4f03dd9e87.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/"
       ]
     }
   ]
