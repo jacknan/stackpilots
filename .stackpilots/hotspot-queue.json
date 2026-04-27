@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "description": "",
-      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-04-26T04:32:27.611Z"
-    },
-    {
-      "title": "Meta&#8217;s loss is Thinking Machines&#8217; gain",
-      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "description": "",
-      "pubDate": "Fri, 24 Apr 2026 20:52:07 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-04-25T04:08:29.510Z"
-    },
-    {
       "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
       "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
       "description": "",
@@ -2493,6 +2465,17 @@
       "links": [
         "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
         "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/"
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "files": [
+        "techcrunch-ai-2026-04-27-openai-ceo-apologizes-to-tumbler-ridge-community-1a7fca9ffa.mdx",
+        "techcrunch-ai-2026-04-27-meta-8217-s-loss-is-thinking-machines-8217-gain-47c1d80b30.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+        "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"
       ]
     }
   ]
