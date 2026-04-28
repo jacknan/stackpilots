@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "DeepMind&#8217;s David Silver just raised $1.1B to build an AI that learns without human data",
+      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "description": "",
+      "pubDate": "Mon, 27 Apr 2026 17:24:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-28T04:44:57.727Z"
+    },
+    {
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "description": "",
+      "pubDate": "Mon, 27 Apr 2026 16:13:02 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-28T04:44:57.727Z"
+    },
+    {
       "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
       "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
       "description": "",
@@ -2476,6 +2504,17 @@
       "links": [
         "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
         "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "files": [
+        "techcrunch-ai-2026-04-28-openai-could-be-making-a-phone-with-ai-agents-replacing-apps-88e7c1dc90.mdx",
+        "techcrunch-ai-2026-04-28-openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal-949fd0adbe.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+        "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/"
       ]
     }
   ]
