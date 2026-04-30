@@ -2,18 +2,116 @@
   "version": 1,
   "queue": [
     {
-      "title": "Otter&#8217;s new feature lets users search across their enterprise tools",
-      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "title": "Amazon&#8217;s cloud business is surging — and so is its capital spending",
+      "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
       "description": "",
-      "pubDate": "Tue, 28 Apr 2026 12:00:00 +0000",
+      "pubDate": "Thu, 30 Apr 2026 00:14:23 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-04-29T04:40:51.128Z"
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 00:07:15 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Satya Nadella says he&#8217;s ready to &#8216;exploit&#8217; the new OpenAI deal",
+      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "description": "",
+      "pubDate": "Wed, 29 Apr 2026 23:55:23 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "description": "",
+      "pubDate": "Wed, 29 Apr 2026 22:20:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "description": "",
+      "pubDate": "Wed, 29 Apr 2026 20:59:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Is AI video just a prequel? Runway&#8217;s CEO thinks world models are next",
+      "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+      "description": "",
+      "pubDate": "Wed, 29 Apr 2026 18:59:44 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "description": "",
+      "pubDate": "Wed, 29 Apr 2026 18:33:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
+    },
+    {
+      "title": "Google Photos uses AI to make the iconic closet from &#8216;Clueless&#8217; a reality",
+      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "description": "",
+      "pubDate": "Wed, 29 Apr 2026 16:42:33 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-04-30T04:44:14.018Z"
     },
     {
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -2610,6 +2708,17 @@
       "links": [
         "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
         "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "files": [
+        "techcrunch-ai-2026-04-30-microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are--953abed23e.mdx",
+        "techcrunch-ai-2026-04-30-otter-8217-s-new-feature-lets-users-search-across-their-enterprise-too-3f96840c6c.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/"
       ]
     }
   ]
