@@ -2,6 +2,146 @@
   "version": 1,
   "queue": [
     {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 17:15:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "description": "",
+      "pubDate": "Fri, 01 May 2026 02:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "Apple was surprised by AI-driven demand for Macs",
+      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 22:12:52 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 20:14:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 19:27:41 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 18:03:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 17:53:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 17:46:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 16:06:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "description": "",
+      "pubDate": "Thu, 30 Apr 2026 15:14:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-01T04:57:43.167Z"
+    },
+    {
       "title": "Amazon&#8217;s cloud business is surging — and so is its capital spending",
       "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
       "description": "",
@@ -2719,6 +2859,17 @@
       "links": [
         "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
         "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/"
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "files": [
+        "techcrunch-ai-2026-05-01-openai-announces-new-advanced-security-for-chatgpt-accounts-including--d18b5816d3.mdx",
+        "github-ai-2026-05-01-github-copilot-cli-for-beginners-interactive-v-non-interactive-mode-1ab6a12085.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/"
       ]
     }
   ]
