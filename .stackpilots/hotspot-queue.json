@@ -2,18 +2,18 @@
   "version": 1,
   "queue": [
     {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
       "description": "",
-      "pubDate": "Thu, 30 Apr 2026 17:15:19 +0000",
+      "pubDate": "Fri, 01 May 2026 16:02:36 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-05-01T04:57:43.167Z"
+      "score": 1,
+      "queuedAt": "2026-05-02T04:28:10.708Z"
     },
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -2870,6 +2870,17 @@
       "links": [
         "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/"
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "files": [
+        "techcrunch-ai-2026-05-02-stripe-introduces-link-a-digital-wallet-that-autonomous-ai-agents-can--9de7895dd7.mdx",
+        "techcrunch-ai-2026-05-02-meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions-dd9cbea755.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+        "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
       ]
     }
   ]
