@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "OpenAI&#8217;s cozy partner Cerebras is on track for a blockbuster IPO",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "description": "",
+      "pubDate": "Mon, 04 May 2026 21:53:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-05T04:27:48.918Z"
+    },
+    {
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "description": "",
+      "pubDate": "Mon, 04 May 2026 19:12:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-05T04:27:48.918Z"
+    },
+    {
+      "title": "Elon Musk&#8217;s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "description": "",
+      "pubDate": "Mon, 04 May 2026 16:57:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-05T04:27:48.918Z"
+    },
+    {
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "description": "",
+      "pubDate": "Mon, 04 May 2026 16:45:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-05T04:27:48.918Z"
+    },
+    {
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "description": "",
+      "pubDate": "Mon, 04 May 2026 16:36:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-05T04:27:48.918Z"
+    },
+    {
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "description": "",
+      "pubDate": "Mon, 04 May 2026 15:59:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-05T04:27:48.918Z"
+    },
+    {
       "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
       "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
       "description": "",
@@ -2903,6 +2987,17 @@
       "links": [
         "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
         "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "files": [
+        "techcrunch-ai-2026-05-05-doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of--8a4187a1b3.mdx",
+        "techcrunch-ai-2026-05-05-as-workers-worry-about-ai-nvidia-8217-s-jensen-huang-says-ai-is-8216-c-0e3920cef6.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+        "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
       ]
     }
   ]
