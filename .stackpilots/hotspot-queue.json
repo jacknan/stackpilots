@@ -16,6 +16,90 @@
       "queuedAt": "2026-05-06T04:45:03.398Z"
     },
     {
+      "title": "Is xAI a neocloud now?",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 21:32:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-07T04:45:19.918Z"
+    },
+    {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 18:23:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-07T04:45:19.918Z"
+    },
+    {
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 15:49:39 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-07T04:45:19.918Z"
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 15:46:38 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-07T04:45:19.918Z"
+    },
+    {
+      "title": "Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features",
+      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 15:12:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-07T04:45:19.918Z"
+    },
+    {
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-07T04:45:19.918Z"
+    },
+    {
       "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
       "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
       "description": "",
@@ -3093,6 +3177,17 @@
       "links": [
         "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
         "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "files": [
+        "github-ai-2026-05-07-validating-agentic-behavior-when-correct-isn-t-deterministic-6f75b8ecc0.mdx",
+        "techcrunch-ai-2026-05-07-tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-us-075301c272.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+        "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
       ]
     }
   ]
