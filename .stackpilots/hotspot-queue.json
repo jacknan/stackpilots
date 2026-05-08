@@ -16,6 +16,104 @@
       "queuedAt": "2026-05-06T04:45:03.398Z"
     },
     {
+      "title": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "description": "",
+      "pubDate": "Thu, 07 May 2026 21:02:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
+      "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possible self-harm",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "description": "",
+      "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
+      "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "description": "",
+      "pubDate": "Thu, 07 May 2026 19:57:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
+      "title": "Elon Musk&#8217;s lawsuit is putting OpenAI&#8217;s safety record under the microscope",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "description": "",
+      "pubDate": "Thu, 07 May 2026 19:21:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
+      "title": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
+      "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+      "description": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here&#8217;s how to review them. appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Thu, 07 May 2026 19:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "description": "",
+      "pubDate": "Thu, 07 May 2026 16:05:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
+      "title": "China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "description": "",
+      "pubDate": "Thu, 07 May 2026 13:44:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-08T04:24:36.307Z"
+    },
+    {
       "title": "Is xAI a neocloud now?",
       "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
       "description": "",
@@ -3188,6 +3286,17 @@
       "links": [
         "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
         "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "files": [
+        "github-ai-2026-05-08-improving-token-efficiency-in-github-agentic-workflows-2b3dd723a2.mdx",
+        "techcrunch-ai-2026-05-08-openai-launches-new-voice-intelligence-features-in-its-api-57ef3b10d0.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+        "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
       ]
     }
   ]
