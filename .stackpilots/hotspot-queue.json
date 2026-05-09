@@ -2,18 +2,46 @@
   "version": 1,
   "queue": [
     {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
       "description": "",
-      "pubDate": "Tue, 05 May 2026 15:31:37 +0000",
+      "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-05-06T04:45:03.398Z"
+      "score": 1,
+      "queuedAt": "2026-05-09T04:34:23.577Z"
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "description": "",
+      "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-09T04:34:23.577Z"
+    },
+    {
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "description": "",
+      "pubDate": "Fri, 08 May 2026 15:46:17 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-09T04:34:23.577Z"
     },
     {
       "title": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm",
@@ -66,20 +94,6 @@
       "tags": [
         "ai-tools",
         "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-05-08T04:24:36.307Z"
-    },
-    {
-      "title": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
-      "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-      "description": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here&#8217;s how to review them. appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Thu, 07 May 2026 19:00:00 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
         "software-engineering"
       ],
       "score": 1,
@@ -3297,6 +3311,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
         "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "files": [
+        "techcrunch-ai-2026-05-09-etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push-c281318b66.mdx",
+        "github-ai-2026-05-09-agent-pull-requests-are-everywhere-here-8217-s-how-to-review-them-9b400c053b.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+        "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/"
       ]
     }
   ]
