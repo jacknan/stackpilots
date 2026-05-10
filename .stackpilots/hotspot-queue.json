@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "description": "",
+      "pubDate": "Sat, 09 May 2026 14:43:30 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-10T04:54:03.547Z"
+    },
+    {
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
       "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
       "description": "",
@@ -3322,6 +3336,17 @@
       "links": [
         "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
         "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/"
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "files": [
+        "techcrunch-ai-2026-05-10-voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway-9226d8bc54.mdx",
+        "techcrunch-ai-2026-05-10-so-you-8217-ve-heard-these-ai-terms-and-nodded-along-let-8217-s-fix-th-c7c11ee24f.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
       ]
     }
   ]
