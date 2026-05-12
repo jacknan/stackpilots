@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "description": "",
+      "pubDate": "Mon, 11 May 2026 17:02:35 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-12T04:48:25.973Z"
+    },
+    {
+      "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "description": "",
+      "pubDate": "Mon, 11 May 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-12T04:48:25.973Z"
+    },
+    {
       "title": "Nvidia has already committed $40B to equity AI deals this year",
       "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
       "description": "",
@@ -3358,6 +3386,17 @@
       "links": [
         "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
         "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/"
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "files": [
+        "techcrunch-ai-2026-05-12-riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo-c2e6ca3e85.mdx",
+        "techcrunch-ai-2026-05-12-gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-7224de2c82.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
       ]
     }
   ]
