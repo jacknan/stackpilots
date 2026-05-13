@@ -2,6 +2,132 @@
   "version": 1,
   "queue": [
     {
+      "title": "Dessn raises $6M for its production-focused design tool",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 11:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "Medicare&#8217;s new payment model is built for AI, and most of the tech world has no idea",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "description": "",
+      "pubDate": "Wed, 13 May 2026 00:26:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 18:05:15 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 17:36:34 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 17:01:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code your own widgets",
+      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
+      "title": "Threads tests a Meta AI integration that works similarly to Grok",
+      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "description": "",
+      "pubDate": "Tue, 12 May 2026 16:34:36 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-13T04:58:42.305Z"
+    },
+    {
       "title": "Digg tries again, this time as an AI news aggregator",
       "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
       "description": "",
@@ -3397,6 +3523,17 @@
       "links": [
         "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
         "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "files": [
+        "github-ai-2026-05-13-dungeons-038-desktops-building-a-procedurally-generated-roguelike-with-5135cdc467.mdx",
+        "techcrunch-ai-2026-05-13-google-brings-agentic-ai-and-vibe-coded-widgets-to-android-9b20e4e2f1.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+        "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
       ]
     }
   ]
