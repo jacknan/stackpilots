@@ -30,6 +30,62 @@
       "queuedAt": "2026-05-13T04:58:42.305Z"
     },
     {
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "description": "",
+      "pubDate": "Fri, 15 May 2026 19:24:16 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-16T04:40:28.447Z"
+    },
+    {
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "description": "",
+      "pubDate": "Fri, 15 May 2026 18:14:44 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-16T04:40:28.447Z"
+    },
+    {
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "description": "",
+      "pubDate": "Fri, 15 May 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-16T04:40:28.447Z"
+    },
+    {
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "description": "",
+      "pubDate": "Fri, 15 May 2026 12:19:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-16T04:40:28.447Z"
+    },
+    {
       "title": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger",
       "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
       "description": "",
@@ -3752,6 +3808,17 @@
       "links": [
         "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
         "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/"
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "files": [
+        "techcrunch-ai-2026-05-16-openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-7c1aec8136.mdx",
+        "github-ai-2026-05-16-building-a-general-purpose-accessibility-agent-and-what-we-learned-in--15e2ab30f9.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+        "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/"
       ]
     }
   ]
