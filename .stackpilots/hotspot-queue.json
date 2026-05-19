@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "description": "",
+      "pubDate": "Mon, 18 May 2026 19:27:52 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-05-19T05:13:12.769Z"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "description": "",
+      "pubDate": "Mon, 18 May 2026 17:34:43 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-19T05:13:12.769Z"
+    },
+    {
+      "title": "South Korea&#8217;s LetinAR is building optics behind AI glasses",
+      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "description": "",
+      "pubDate": "Mon, 18 May 2026 11:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-19T05:13:12.769Z"
+    },
+    {
       "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
       "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
       "description": "",
@@ -3869,6 +3911,17 @@
       "links": [
         "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
         "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/"
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "files": [
+        "github-ai-2026-05-19-take-your-local-github-sessions-anywhere-98af69a4eb.mdx",
+        "techcrunch-ai-2026-05-19-sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computi-260dc319da.mdx"
+      ],
+      "links": [
+        "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+        "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
       ]
     }
   ]
