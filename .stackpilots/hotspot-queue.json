@@ -2,32 +2,116 @@
   "version": 1,
   "queue": [
     {
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
       "description": "",
-      "pubDate": "Tue, 19 May 2026 21:16:25 +0000",
+      "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-05-20T05:15:49.892Z"
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
     },
     {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
       "description": "",
-      "pubDate": "Tue, 19 May 2026 17:51:30 +0000",
+      "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-05-20T05:15:49.892Z"
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
+    },
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 20:28:27 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
+    },
+    {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 19:47:20 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
+    },
+    {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
+    },
+    {
+      "title": "AI search startups are blowing up",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 15:04:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-21T05:36:31.083Z"
     },
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -4031,6 +4115,17 @@
       "links": [
         "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
         "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "files": [
+        "techcrunch-ai-2026-05-21-how-to-use-google-s-new-ai-agents-to-go-beyond-your-standard-searches-36fdd6063d.mdx",
+        "techcrunch-ai-2026-05-21-with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatb-3342971652.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+        "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
       ]
     }
   ]
