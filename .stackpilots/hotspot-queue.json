@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 19:45:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-22T05:13:30.552Z"
+    },
+    {
+      "title": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts",
+      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 15:27:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-22T05:13:30.552Z"
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 15:27:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-22T05:13:30.552Z"
+    },
+    {
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-22T05:13:30.552Z"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive &#8216;universal&#8217; AI interface",
+      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-22T05:13:30.552Z"
+    },
+    {
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 13:38:42 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-22T05:13:30.552Z"
+    },
+    {
       "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
       "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
       "description": "",
@@ -4126,6 +4210,17 @@
       "links": [
         "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
         "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "files": [
+        "techcrunch-ai-2026-05-22-trump-delays-ai-security-executive-order-saying-language-8216-could-ha-a3645b672c.mdx",
+        "techcrunch-ai-2026-05-22-google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy--e662c861e9.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+        "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
       ]
     }
   ]
