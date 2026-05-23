@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "description": "",
+      "pubDate": "Fri, 22 May 2026 20:40:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-23T04:52:02.079Z"
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "description": "",
+      "pubDate": "Fri, 22 May 2026 15:37:15 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-23T04:52:02.079Z"
+    },
+    {
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "description": "",
+      "pubDate": "Fri, 22 May 2026 14:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-23T04:52:02.079Z"
+    },
+    {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "description": "",
@@ -4221,6 +4263,17 @@
       "links": [
         "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
         "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "files": [
+        "github-ai-2026-05-23-github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterp-9a04bf76d2.mdx",
+        "techcrunch-ai-2026-05-23-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots-48a55c9b57.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+        "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
       ]
     }
   ]
