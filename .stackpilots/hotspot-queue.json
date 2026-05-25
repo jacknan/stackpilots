@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "description": "",
-      "pubDate": "Fri, 22 May 2026 15:37:15 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-05-23T04:52:02.079Z"
-    },
-    {
       "title": "SpaceX files to go public, and the math requires a little faith",
       "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "description": "",
@@ -4271,6 +4257,17 @@
       "links": [
         "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
         "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "files": [
+        "techcrunch-ai-2026-05-25-everyone-is-navigating-ai-security-in-real-time-8212-even-google-cf45cfd628.mdx",
+        "techcrunch-ai-2026-05-25-we-tried-google-s-ai-glasses-and-they-re-almost-there-0eb1a299e0.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
       ]
     }
   ]
