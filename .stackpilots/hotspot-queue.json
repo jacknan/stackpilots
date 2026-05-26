@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "description": "",
-      "pubDate": "Fri, 22 May 2026 14:30:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-05-23T04:52:02.079Z"
-    },
-    {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "description": "",
@@ -4268,6 +4254,17 @@
       "links": [
         "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
         "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "files": [
+        "techcrunch-ai-2026-05-26-the-pope-s-ai-encyclical-isn-t-really-about-ai-fdea371824.mdx",
+        "techcrunch-ai-2026-05-26-spacex-files-to-go-public-and-the-math-requires-a-little-faith-0d9bea7271.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/"
       ]
     }
   ]
