@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "description": "",
+      "pubDate": "Tue, 26 May 2026 14:55:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-27T05:42:02.794Z"
+    },
+    {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "description": "",
@@ -4265,6 +4279,17 @@
       "links": [
         "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
         "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "files": [
+        "techcrunch-ai-2026-05-27-duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-google-s-8fb858abec.mdx",
+        "techcrunch-ai-2026-05-27-this-startup-is-betting-india-8217-s-gig-economy-can-train-the-world-8-1be411e906.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+        "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
       ]
     }
   ]
