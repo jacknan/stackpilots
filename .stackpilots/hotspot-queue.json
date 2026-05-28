@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "description": "",
+      "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-28T05:36:05.407Z"
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "description": "",
+      "pubDate": "Wed, 27 May 2026 18:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-28T05:36:05.407Z"
+    },
+    {
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "description": "",
+      "pubDate": "Wed, 27 May 2026 13:48:41 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-28T05:36:05.407Z"
+    },
+    {
       "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
       "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
       "description": "",
@@ -4290,6 +4332,17 @@
       "links": [
         "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
         "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "files": [
+        "techcrunch-ai-2026-05-28-ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation-2eed09f142.mdx",
+        "techcrunch-ai-2026-05-28-why-google-8217-s-ai-can-8217-t-spell-google-or-anything-else-b4d0e41aca.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+        "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
       ]
     }
   ]
