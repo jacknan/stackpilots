@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 18:52:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-29T05:39:31.367Z"
+    },
+    {
+      "title": "Just like gold and oil, we&#8217;ll soon be able to trade AI token futures",
+      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 18:32:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-29T05:39:31.367Z"
+    },
+    {
+      "title": "Anthropic releases Opus 4.8 with new &#8216;dynamic workflow&#8217; tool",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 17:00:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-29T05:39:31.367Z"
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 15:35:43 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-29T05:39:31.367Z"
+    },
+    {
+      "title": "Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and more",
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 14:45:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-29T05:39:31.367Z"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "description": "",
+      "pubDate": "Thu, 28 May 2026 14:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-29T05:39:31.367Z"
+    },
+    {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "description": "",
@@ -4343,6 +4427,17 @@
       "links": [
         "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
         "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "files": [
+        "techcrunch-ai-2026-05-29-asana-acquires-no-code-agent-builder-stackai-e14094841c.mdx",
+        "techcrunch-ai-2026-05-29-glean-8217-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-ma-5471d9492e.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+        "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
       ]
     }
   ]
