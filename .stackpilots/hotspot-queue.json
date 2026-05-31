@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "description": "",
+      "pubDate": "Sat, 30 May 2026 15:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-05-31T05:45:37.392Z"
+    },
+    {
       "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
       "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "description": "",
@@ -4533,6 +4547,17 @@
       "links": [
         "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
         "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "files": [
+        "techcrunch-ai-2026-05-31-8216-what-a-joke-8217-github-copilot-8217-s-new-token-based-billing-sp-74c5c0a94f.mdx",
+        "techcrunch-ai-2026-05-31-meta-is-reportedly-developing-an-ai-pendant-d2b66db25e.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/"
       ]
     }
   ]
