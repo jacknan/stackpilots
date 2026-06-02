@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "description": "",
+      "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-02T06:02:21.709Z"
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "description": "",
+      "pubDate": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-02T06:02:21.709Z"
+    },
+    {
+      "title": "DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "description": "",
+      "pubDate": "Mon, 01 Jun 2026 14:49:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-02T06:02:21.709Z"
+    },
+    {
       "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
       "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
       "description": "",
@@ -4569,6 +4611,17 @@
       "links": [
         "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
         "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "files": [
+        "techcrunch-ai-2026-06-02-nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-an-049ea755e1.mdx",
+        "techcrunch-ai-2026-06-02-alphabet-plans-to-raise-80b-to-pay-for-ai-buildout-16c1b9fdcd.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/"
       ]
     }
   ]
