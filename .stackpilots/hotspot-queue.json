@@ -2,6 +2,104 @@
   "version": 1,
   "queue": [
     {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 19:02:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 19:11:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 18:16:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 16:23:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
       "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
       "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
       "description": "",
@@ -4622,6 +4720,17 @@
       "links": [
         "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
         "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/"
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "files": [
+        "techcrunch-ai-2026-06-03-openai-launches-new-codex-tools-for-white-collar-work-31f39eabff.mdx",
+        "techcrunch-ai-2026-06-03-anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countr-dcf96489a3.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+        "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
       ]
     }
   ]
