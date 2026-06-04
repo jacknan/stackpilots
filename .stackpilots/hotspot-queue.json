@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "description": "",
+      "pubDate": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-06-04T06:07:47.484Z"
+    },
+    {
       "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
       "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
       "description": "",
@@ -28,6 +42,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "description": "",
+      "pubDate": "Wed, 03 Jun 2026 19:38:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-04T06:07:47.484Z"
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "description": "",
+      "pubDate": "Wed, 03 Jun 2026 15:50:26 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-04T06:07:47.484Z"
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "description": "",
+      "pubDate": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-04T06:07:47.484Z"
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "description": "",
+      "pubDate": "Wed, 03 Jun 2026 14:58:33 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-04T06:07:47.484Z"
     },
     {
       "title": "Uber caps employee AI spending after blowing through budget in 4 months",
@@ -4731,6 +4801,17 @@
       "links": [
         "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
         "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "files": [
+        "techcrunch-ai-2026-06-04-google-8217-s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn--ef62746980.mdx",
+        "techcrunch-ai-2026-06-04-meta-8217-s-ai-agent-for-whatsapp-business-is-now-available-globally-5283290f15.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+        "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
       ]
     }
   ]
