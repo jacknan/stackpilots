@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "description": "",
-      "pubDate": "Wed, 03 Jun 2026 13:02:51 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-06-04T06:07:47.484Z"
-    },
-    {
       "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
       "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
       "description": "",
@@ -42,6 +28,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-06-03T06:16:43.587Z"
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "description": "",
+      "pubDate": "Thu, 04 Jun 2026 22:43:26 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-05T05:48:40.996Z"
+    },
+    {
+      "title": "Airbnb&#8217;s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "description": "",
+      "pubDate": "Thu, 04 Jun 2026 22:29:50 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-05T05:48:40.996Z"
+    },
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "description": "",
+      "pubDate": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-05T05:48:40.996Z"
+    },
+    {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "description": "",
+      "pubDate": "Thu, 04 Jun 2026 16:32:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-05T05:48:40.996Z"
     },
     {
       "title": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
@@ -4812,6 +4854,17 @@
       "links": [
         "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
         "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "files": [
+        "techcrunch-ai-2026-06-05-apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-74b95bcee0.mdx",
+        "techcrunch-ai-2026-06-05-coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents-c0e85e43ae.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+        "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/"
       ]
     }
   ]
