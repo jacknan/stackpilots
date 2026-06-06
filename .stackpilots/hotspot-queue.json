@@ -2,32 +2,32 @@
   "version": 1,
   "queue": [
     {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "description": "",
-      "pubDate": "Tue, 02 Jun 2026 19:02:21 +0000",
+      "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-06-03T06:16:43.587Z"
+      "score": 1,
+      "queuedAt": "2026-06-06T05:05:18.007Z"
     },
     {
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
       "description": "",
-      "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-06-03T06:16:43.587Z"
+      "score": 1,
+      "queuedAt": "2026-06-06T05:05:18.007Z"
     },
     {
       "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
@@ -4865,6 +4865,17 @@
       "links": [
         "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
         "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/"
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "files": [
+        "techcrunch-ai-2026-06-06-new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-desc-908f145551.mdx",
+        "techcrunch-ai-2026-06-06-microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior-693c9d7118.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+        "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
       ]
     }
   ]
