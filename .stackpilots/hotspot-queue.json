@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "description": "",
-      "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-06-07T05:52:23.856Z"
-    },
-    {
       "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
       "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "description": "",
@@ -4901,6 +4887,17 @@
       "links": [
         "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
         "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "files": [
+        "techcrunch-ai-2026-06-08-openai-is-still-working-on-that-super-app-30cbd49303.mdx",
+        "techcrunch-ai-2026-06-08-the-trump-administration-might-take-an-equity-stake-in-openai-39923ab840.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+        "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
       ]
     }
   ]
