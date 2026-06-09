@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "description": "",
+      "pubDate": "Mon, 08 Jun 2026 22:41:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-09T05:16:58.429Z"
+    },
+    {
+      "title": "Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "description": "",
+      "pubDate": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-09T05:16:58.429Z"
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "description": "",
+      "pubDate": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-09T05:16:58.429Z"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "description": "",
+      "pubDate": "Mon, 08 Jun 2026 19:41:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-09T05:16:58.429Z"
+    },
+    {
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "description": "",
+      "pubDate": "Mon, 08 Jun 2026 18:45:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-09T05:16:58.429Z"
+    },
+    {
+      "title": "Apple&#8217;s Photos app is getting new AI editing features",
+      "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "description": "",
+      "pubDate": "Mon, 08 Jun 2026 18:36:04 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-09T05:16:58.429Z"
+    },
+    {
       "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
       "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "description": "",
@@ -4898,6 +4982,17 @@
       "links": [
         "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
         "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "files": [
+        "techcrunch-ai-2026-06-09-apple-bets-cheaper-ai-will-woo-small-developers-ea8730e943.mdx",
+        "techcrunch-ai-2026-06-09-why-apple-8217-s-slow-and-steady-ai-bet-is-starting-to-look-pretty-sma-e6392865bc.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+        "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
       ]
     }
   ]
