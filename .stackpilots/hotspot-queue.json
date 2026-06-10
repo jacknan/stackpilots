@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "description": "",
+      "pubDate": "Wed, 10 Jun 2026 00:26:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-10T05:48:31.757Z"
+    },
+    {
+      "title": "Hey, Siri, here&#8217;s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "description": "",
+      "pubDate": "Tue, 09 Jun 2026 20:50:17 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-10T05:48:31.757Z"
+    },
+    {
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "description": "",
+      "pubDate": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-10T05:48:31.757Z"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "description": "",
+      "pubDate": "Tue, 09 Jun 2026 18:04:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-10T05:48:31.757Z"
+    },
+    {
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "description": "",
+      "pubDate": "Tue, 09 Jun 2026 13:47:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-10T05:48:31.757Z"
+    },
+    {
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "description": "",
+      "pubDate": "Tue, 09 Jun 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-10T05:48:31.757Z"
+    },
+    {
       "title": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says",
       "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
       "description": "",
@@ -4993,6 +5077,17 @@
       "links": [
         "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
         "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "files": [
+        "github-ai-2026-06-10-from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-c-35bb172e88.mdx",
+        "techcrunch-ai-2026-06-10-anthropic-8217-s-claude-fable-5-is-a-version-of-mythos-the-public-can--7efcaaa23c.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+        "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/"
       ]
     }
   ]
