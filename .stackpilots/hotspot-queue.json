@@ -2,18 +2,18 @@
   "version": 1,
   "queue": [
     {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "title": "Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and others",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "pubDate": "Thu, 11 Jun 2026 16:36:20 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 3,
-      "queuedAt": "2026-06-11T06:05:38.497Z"
+      "score": 2,
+      "queuedAt": "2026-06-12T06:01:23.683Z"
     },
     {
       "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
@@ -42,6 +42,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-06-11T06:05:38.497Z"
+    },
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for India&#8217;s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-12T06:01:23.683Z"
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-12T06:01:23.683Z"
+    },
+    {
+      "title": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-12T06:01:23.683Z"
+    },
+    {
+      "title": "DoorDash&#8217;s new AI chatbot lets you order with prompts and photos",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "description": "",
+      "pubDate": "Thu, 11 Jun 2026 14:23:43 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-12T06:01:23.683Z"
     },
     {
       "title": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing",
@@ -5211,6 +5267,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
         "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "files": [
+        "techcrunch-ai-2026-06-12-datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-b-affdd3743a.mdx",
+        "github-ai-2026-06-12-making-secret-scanning-more-trustworthy-reducing-false-positives-at-sc-fa257017cc.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+        "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/"
       ]
     }
   ]
