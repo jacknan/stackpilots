@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and others",
-      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "description": "",
-      "pubDate": "Thu, 11 Jun 2026 16:36:20 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-06-12T06:01:23.683Z"
-    },
-    {
       "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
       "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "description": "",
@@ -42,6 +28,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-06-11T06:05:38.497Z"
+    },
+    {
+      "title": "Anthropic&#8217;s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "description": "",
+      "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-13T05:46:13.443Z"
+    },
+    {
+      "title": "Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-13T05:46:13.443Z"
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-13T05:46:13.443Z"
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 17:38:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-13T05:46:13.443Z"
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "description": "",
+      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-13T05:46:13.443Z"
     },
     {
       "title": "Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for India&#8217;s scale",
@@ -5278,6 +5334,17 @@
       "links": [
         "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
         "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/"
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "files": [
+        "github-ai-2026-06-13-how-we-made-github-copilot-cli-more-selective-about-delegation-0519525549.mdx",
+        "techcrunch-ai-2026-06-13-deezer-8217-s-new-tool-can-identify-ai-music-from-spotify-apple-music--4f9aae068b.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+        "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
       ]
     }
   ]
