@@ -2,32 +2,60 @@
   "version": 1,
   "queue": [
     {
-      "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
-      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 15:41:22 +0000",
+      "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-06-11T06:05:38.497Z"
+      "score": 1,
+      "queuedAt": "2026-06-14T06:05:31.882Z"
     },
     {
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 13:33:09 +0000",
+      "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-06-11T06:05:38.497Z"
+      "score": 1,
+      "queuedAt": "2026-06-14T06:05:31.882Z"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "description": "",
+      "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-14T06:05:31.882Z"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "description": "",
+      "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-14T06:05:31.882Z"
     },
     {
       "title": "Anthropic&#8217;s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
@@ -5345,6 +5373,17 @@
       "links": [
         "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
         "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "files": [
+        "techcrunch-ai-2026-06-14-cybersecurity-researchers-aren-8217-t-happy-about-the-guardrails-on-an-c49d3b6069.mdx",
+        "techcrunch-ai-2026-06-14-jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-thei-67e72808f2.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/"
       ]
     }
   ]
