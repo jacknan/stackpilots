@@ -2,6 +2,118 @@
   "version": 1,
   "queue": [
     {
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "description": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Mon, 15 Jun 2026 19:17:30 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 23:51:44 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "The US government&#8217;s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 18:30:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropic&#8217;s most powerful models",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 14:34:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "description": "",
+      "pubDate": "Mon, 15 Jun 2026 07:25:41 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-16T06:43:29.949Z"
+    },
+    {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "description": "",
@@ -5381,6 +5493,17 @@
       "links": [
         "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
         "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "files": [
+        "github-ai-2026-06-16-github-copilot-cli-for-beginners-overview-of-common-slash-commands-7465511e9b.mdx",
+        "techcrunch-ai-2026-06-16-as-ai-agents-become-employees-newcore-emerges-with-66m-to-give-them-id-bf4c568214.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+        "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
       ]
     }
   ]
