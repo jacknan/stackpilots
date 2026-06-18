@@ -44,6 +44,76 @@
       "queuedAt": "2026-06-17T06:27:18.219Z"
     },
     {
+      "title": "How to turn off AI in your Google Docs",
+      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "description": "",
+      "pubDate": "Thu, 18 Jun 2026 01:23:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-18T06:10:09.491Z"
+    },
+    {
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "description": "",
+      "pubDate": "Wed, 17 Jun 2026 20:17:38 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-18T06:10:09.491Z"
+    },
+    {
+      "title": "World leaders want American AI. They just don&#8217;t want America to be able to turn it off.",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "description": "",
+      "pubDate": "Wed, 17 Jun 2026 19:01:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-18T06:10:09.491Z"
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "description": "",
+      "pubDate": "Wed, 17 Jun 2026 18:30:56 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-18T06:10:09.491Z"
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "description": "",
+      "pubDate": "Wed, 17 Jun 2026 17:00:01 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-18T06:10:09.491Z"
+    },
+    {
       "title": "Sixty percent of US consumers say &#8216;AI&#8217; in brand messaging is a turnoff, survey finds",
       "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
       "description": "",
@@ -5599,6 +5669,17 @@
       "links": [
         "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
         "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "files": [
+        "github-ai-2026-06-18-getting-more-from-each-token-how-copilot-improves-context-handling-and-45a2213961.mdx",
+        "techcrunch-ai-2026-06-18-nea-8217-s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoni-bf51378d8c.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+        "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/"
       ]
     }
   ]
