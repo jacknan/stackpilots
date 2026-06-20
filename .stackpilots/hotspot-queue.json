@@ -2,18 +2,46 @@
   "version": 1,
   "queue": [
     {
-      "title": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
       "description": "",
-      "pubDate": "Tue, 16 Jun 2026 06:59:00 +0000",
+      "pubDate": "Fri, 19 Jun 2026 15:23:28 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-06-17T06:27:18.219Z"
+      "score": 1,
+      "queuedAt": "2026-06-20T05:43:54.145Z"
+    },
+    {
+      "title": "The CEO of Allbirds&#8217; new AI biz has a plan, but no team",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "description": "",
+      "pubDate": "Fri, 19 Jun 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-20T05:43:54.145Z"
+    },
+    {
+      "title": "The US says ASML&#8217;s top chip tool may be in China, but how?",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "description": "",
+      "pubDate": "Fri, 19 Jun 2026 07:59:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-20T05:43:54.145Z"
     },
     {
       "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
@@ -5789,6 +5817,17 @@
       "links": [
         "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
         "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/"
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "files": [
+        "github-ai-2026-06-20-how-we-built-an-internal-data-analytics-agent-1c1b265684.mdx",
+        "techcrunch-ai-2026-06-20-malaysia-8217-s-ai-agent-powered-messaging-app-respond-io-raises-62-5m-aeacbae86d.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+        "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/"
       ]
     }
   ]
