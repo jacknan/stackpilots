@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "description": "",
-      "pubDate": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-06-20T05:43:54.145Z"
-    },
-    {
       "title": "The CEO of Allbirds&#8217; new AI biz has a plan, but no team",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "description": "",
@@ -5839,6 +5825,17 @@
       "links": [
         "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
         "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "files": [
+        "techcrunch-ai-2026-06-22-beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-i-5e4c01a2f8.mdx",
+        "techcrunch-ai-2026-06-22-billionaire-ambani-wants-ai-in-every-call-app-and-home-c585f7de2a.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
       ]
     }
   ]
