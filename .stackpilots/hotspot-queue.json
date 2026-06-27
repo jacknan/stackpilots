@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "description": "",
-      "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-06-26T05:37:51.578Z"
-    },
-    {
       "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
       "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "description": "",
@@ -28,6 +14,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-06-26T05:37:51.578Z"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "description": "",
+      "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-27T05:03:45.122Z"
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "description": "",
+      "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-27T05:03:45.122Z"
+    },
+    {
+      "title": "It&#8217;s not about Anthropic vs. OpenAI anymore",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "description": "",
+      "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-27T05:03:45.122Z"
+    },
+    {
+      "title": "OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia",
+      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "description": "",
+      "pubDate": "Fri, 26 Jun 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-27T05:03:45.122Z"
     },
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -6132,6 +6174,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
         "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "files": [
+        "techcrunch-ai-2026-06-27-openai-limits-gpt-5-6-rollout-after-government-request-says-restrictio-7d08c86e2e.mdx",
+        "techcrunch-ai-2026-06-27-patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agen-26550eb8ca.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
       ]
     }
   ]
