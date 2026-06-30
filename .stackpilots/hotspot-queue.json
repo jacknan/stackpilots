@@ -2,6 +2,104 @@
   "version": 1,
   "queue": [
     {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 17:03:50 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "The AI jobs debate just got messier",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "description": "",
+      "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "Gemini&#8217;s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 16:29:04 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 14:00:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "Omen AI&#8217;s plan to optimize data centers is all wet",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
       "title": "Asian AI startups launch Mythos-like models as Anthropic&#8217;s export ban drags on",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "description": "",
@@ -6207,6 +6305,17 @@
       "links": [
         "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
         "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "files": [
+        "techcrunch-ai-2026-06-30-vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-def-534a67ec1d.mdx",
+        "techcrunch-ai-2026-06-30-anthropic-and-gov-newsom-forge-deal-allowing-california-government-to--7fc9333d03.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
       ]
     }
   ]
