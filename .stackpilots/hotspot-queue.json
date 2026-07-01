@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "description": "",
+      "pubDate": "Tue, 30 Jun 2026 15:08:42 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-07-01T05:54:28.158Z"
+    },
+    {
       "title": "Cursor now has a mobile app for guiding your coding agent on the go",
       "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
       "description": "",
@@ -14,6 +28,62 @@
       ],
       "score": 3,
       "queuedAt": "2026-06-30T05:17:32.810Z"
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "description": "",
+      "pubDate": "Tue, 30 Jun 2026 17:52:46 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-01T05:54:28.158Z"
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "description": "",
+      "pubDate": "Tue, 30 Jun 2026 21:53:28 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-01T05:54:28.158Z"
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "description": "",
+      "pubDate": "Tue, 30 Jun 2026 20:33:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-01T05:54:28.158Z"
+    },
+    {
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "description": "",
+      "pubDate": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-01T05:54:28.158Z"
     },
     {
       "title": "The AI jobs debate just got messier",
@@ -6316,6 +6386,17 @@
       "links": [
         "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
         "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "files": [
+        "techcrunch-ai-2026-07-01-anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents-a258af33ca.mdx",
+        "techcrunch-ai-2026-07-01-anthropic-s-claude-science-bets-on-workflow-not-a-new-model-to-win-ove-7c78ac2b49.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+        "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
       ]
     }
   ]
