@@ -2,32 +2,18 @@
   "version": 1,
   "queue": [
     {
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "title": "Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
       "description": "",
-      "pubDate": "Tue, 30 Jun 2026 15:08:42 +0000",
+      "pubDate": "Wed, 01 Jul 2026 14:20:19 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 3,
-      "queuedAt": "2026-07-01T05:54:28.158Z"
-    },
-    {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "description": "",
-      "pubDate": "Mon, 29 Jun 2026 17:03:50 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 3,
-      "queuedAt": "2026-06-30T05:17:32.810Z"
+      "score": 2,
+      "queuedAt": "2026-07-02T05:09:41.772Z"
     },
     {
       "title": "Acti puts AI agents directly into your smartphone keyboard",
@@ -42,6 +28,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-01T05:54:28.158Z"
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "description": "",
+      "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-02T05:09:41.772Z"
+    },
+    {
+      "title": "Cloudflare&#8217;s new policy pushes AI companies to pay for publishers&#8217; content",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "description": "",
+      "pubDate": "Wed, 01 Jul 2026 17:48:37 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-02T05:09:41.772Z"
+    },
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "description": "",
+      "pubDate": "Wed, 01 Jul 2026 14:25:23 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-02T05:09:41.772Z"
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "description": "",
+      "pubDate": "Wed, 01 Jul 2026 13:43:07 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-02T05:09:41.772Z"
     },
     {
       "title": "OpenClaw is finally available on Android and iOS",
@@ -6397,6 +6439,17 @@
       "links": [
         "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
         "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "files": [
+        "techcrunch-ai-2026-07-02-x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-c8eec465d4.mdx",
+        "techcrunch-ai-2026-07-02-cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go-9665bc4af0.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+        "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
       ]
     }
   ]
