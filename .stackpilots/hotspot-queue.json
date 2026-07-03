@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "description": "",
-      "pubDate": "Wed, 01 Jul 2026 14:20:19 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-02T05:09:41.772Z"
-    },
-    {
       "title": "Acti puts AI agents directly into your smartphone keyboard",
       "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
       "description": "",
@@ -28,6 +14,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-01T05:54:28.158Z"
+    },
+    {
+      "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-03T04:58:58.345Z"
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 18:44:02 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-03T04:58:58.345Z"
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-03T04:58:58.345Z"
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-03T04:58:58.345Z"
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 05:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-03T04:58:58.345Z"
     },
     {
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -6450,6 +6506,17 @@
       "links": [
         "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
         "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "files": [
+        "techcrunch-ai-2026-07-03-mark-zuckerberg-tells-staff-that-ai-agents-haven-8217-t-progressed-as--43eacf5122.mdx",
+        "techcrunch-ai-2026-07-03-gemini-spark-google-8217-s-agentic-assistant-is-now-available-on-mac-d994e82768.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
       ]
     }
   ]
