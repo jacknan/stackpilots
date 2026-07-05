@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-05T05:09:12.451Z"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-05T05:09:12.451Z"
+    },
+    {
       "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
       "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
       "description": "",
@@ -6514,6 +6542,17 @@
       "links": [
         "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
         "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "files": [
+        "techcrunch-ai-2026-07-05-alibaba-reportedly-bans-employees-from-using-claude-code-7a350947a7.mdx",
+        "techcrunch-ai-2026-07-05-new-google-commercial-imagines-a-declaration-of-independence-written-w-8573d50021.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
       ]
     }
   ]
