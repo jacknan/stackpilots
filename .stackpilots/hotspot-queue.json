@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "description": "",
+      "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-07T05:08:35.566Z"
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "description": "",
+      "pubDate": "Mon, 06 Jul 2026 18:35:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-07T05:08:35.566Z"
+    },
+    {
+      "title": "If you use Google, you&#8217;re training its AI. Here&#8217;s how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "description": "",
+      "pubDate": "Mon, 06 Jul 2026 17:04:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-07T05:08:35.566Z"
+    },
+    {
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "description": "",
+      "pubDate": "Mon, 06 Jul 2026 15:22:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-07T05:08:35.566Z"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "description": "",
+      "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-07T05:08:35.566Z"
+    },
+    {
       "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
       "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
       "description": "",
@@ -6536,6 +6606,17 @@
       "links": [
         "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
         "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "files": [
+        "techcrunch-ai-2026-07-07-the-8216-first-8217-ai-run-ransomware-attack-still-needed-a-human-d8baa3bf51.mdx",
+        "techcrunch-ai-2026-07-07-us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-rid-4598f557b5.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
       ]
     }
   ]
