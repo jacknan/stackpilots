@@ -2,6 +2,62 @@
   "version": 1,
   "queue": [
     {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 3,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
       "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
       "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
       "description": "",
@@ -16,18 +72,102 @@
       "queuedAt": "2026-07-09T05:08:00.546Z"
     },
     {
-      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-      "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-      "description": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Wed, 08 Jul 2026 21:11:56 +0000",
-      "feedKey": "github-ai",
+      "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
-        "github-copilot",
+        "industry-news",
         "software-engineering"
       ],
       "score": 1,
-      "queuedAt": "2026-07-09T05:08:00.546Z"
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 21:47:50 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 18:40:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 18:34:35 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
+    },
+    {
+      "title": "How did the government decide OpenAI&#8217;s frontier model was safe to release?",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "description": "",
+      "pubDate": "Thu, 09 Jul 2026 18:22:39 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-10T05:09:27.889Z"
     },
     {
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
@@ -6835,6 +6975,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
         "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "files": [
+        "techcrunch-ai-2026-07-10-openai-says-gpt-5-6-is-the-8216-preferred-model-8217-for-microsoft-cop-bf8a0a3516.mdx",
+        "github-ai-2026-07-10-automating-cross-repo-documentation-with-github-agentic-workflows-7eb481eef0.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"
       ]
     }
   ]
