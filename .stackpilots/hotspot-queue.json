@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "description": "",
-      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 3,
-      "queuedAt": "2026-07-10T05:09:27.889Z"
-    },
-    {
       "title": "OpenAI launches its new family of models with GPT-5.6",
       "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "description": "",
@@ -70,6 +56,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-09T05:08:00.546Z"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "description": "",
+      "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-11T04:30:12.380Z"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "description": "",
+      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-11T04:30:12.380Z"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "description": "",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-11T04:30:12.380Z"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "description": "",
+      "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-11T04:30:12.380Z"
+    },
+    {
+      "title": "Hugging Face&#8217;s CEO on why companies are done renting their AI",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "description": "",
+      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-11T04:30:12.380Z"
     },
     {
       "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
@@ -6986,6 +7042,17 @@
       "links": [
         "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
         "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "files": [
+        "github-ai-2026-07-11-better-tools-made-copilot-code-review-worse-here-8217-s-how-we-actuall-8f799535c0.mdx",
+        "techcrunch-ai-2026-07-11-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1-6e69191c30.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+        "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
       ]
     }
   ]
