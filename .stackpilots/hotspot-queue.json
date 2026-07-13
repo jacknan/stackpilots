@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "description": "",
-      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-10T05:09:27.889Z"
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "description": "",
-      "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-10T05:09:27.889Z"
-    },
-    {
       "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
       "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
       "description": "",
@@ -7050,6 +7022,17 @@
       "links": [
         "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
         "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "files": [
+        "techcrunch-ai-2026-07-13-an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise-597e6a4c03.mdx",
+        "techcrunch-ai-2026-07-13-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial-9ffafa51e7.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+        "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
       ]
     }
   ]
