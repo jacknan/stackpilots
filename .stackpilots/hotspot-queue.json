@@ -2,18 +2,102 @@
   "version": 1,
   "queue": [
     {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 16:22:38 +0000",
+      "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-07-09T05:08:00.546Z"
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "description": "",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "description": "",
+      "pubDate": "Mon, 13 Jul 2026 23:31:18 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "description": "",
+      "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
+    },
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "description": "",
+      "pubDate": "Mon, 13 Jul 2026 18:22:10 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "description": "",
+      "pubDate": "Mon, 13 Jul 2026 16:31:23 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "description": "",
+      "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-14T04:17:41.956Z"
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -7033,6 +7117,17 @@
       "links": [
         "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
         "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "files": [
+        "techcrunch-ai-2026-07-14-anthropic-starts-localizing-claude-pricing-for-india-its-biggest-marke-8bd4af6741.mdx",
+        "techcrunch-ai-2026-07-14-prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-o-9e797c1f59.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+        "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
       ]
     }
   ]
