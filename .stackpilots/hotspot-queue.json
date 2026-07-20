@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "description": "",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-20T04:54:08.096Z"
+    },
+    {
       "title": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "description": "",
@@ -7519,6 +7533,17 @@
       "links": [
         "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
         "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "files": [
+        "techcrunch-ai-2026-07-20-can-an-apple-lawsuit-derail-openai-s-hardware-plans-94f3c8d716.mdx",
+        "techcrunch-ai-2026-07-20-odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse-66f92f75ad.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
       ]
     }
   ]
