@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "description": "",
-      "pubDate": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-25T04:29:36.007Z"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "description": "",
-      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-24T04:34:01.049Z"
-    },
-    {
       "title": "OpenAI makes ChatGPT Health available to all US users",
       "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "description": "",
@@ -70,6 +42,48 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "description": "",
+      "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-26T04:43:58.042Z"
+    },
+    {
+      "title": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "description": "",
+      "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-26T04:43:58.042Z"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "description": "",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-26T04:43:58.042Z"
     },
     {
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
@@ -8047,6 +8061,17 @@
       "links": [
         "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
         "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "files": [
+        "techcrunch-ai-2026-07-26-openai-8217-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app-75e11e424e.mdx",
+        "techcrunch-ai-2026-07-26-aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-d-b23e90f9cf.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
       ]
     }
   ]
