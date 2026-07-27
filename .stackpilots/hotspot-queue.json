@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "description": "",
-      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-24T04:34:01.049Z"
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "description": "",
-      "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-24T04:34:01.049Z"
-    },
-    {
       "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
       "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
       "description": "",
@@ -42,6 +14,48 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-27T04:54:01.424Z"
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "description": "",
+      "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-27T04:54:01.424Z"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "description": "",
+      "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-27T04:54:01.424Z"
     },
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -8072,6 +8086,17 @@
       "links": [
         "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
         "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "files": [
+        "techcrunch-ai-2026-07-27-openai-makes-chatgpt-health-available-to-all-us-users-fba0078191.mdx",
+        "techcrunch-ai-2026-07-27-servicenow-bets-40-million-on-indian-banking-software-specialist-to-ex-8bdbd9a846.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+        "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
       ]
     }
   ]
