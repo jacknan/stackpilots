@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+      "description": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Mon, 27 Jul 2026 16:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 6,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
       "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
       "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
       "description": "",
@@ -14,6 +56,104 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 16:45:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 15:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 15:01:50 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
+    },
+    {
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "description": "",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-28T04:30:23.012Z"
     },
     {
       "title": "Are brain waves the next unlock for physical AI?",
@@ -8097,6 +8237,17 @@
       "links": [
         "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
         "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "files": [
+        "github-ai-2026-07-28-the-harness-is-all-you-need-mostly-c82b7e99cb.mdx",
+        "techcrunch-ai-2026-07-28-psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google-6bd1974f42.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+        "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
       ]
     }
   ]
