@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "GitHub Copilot app for Beginners: Getting started",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-      "description": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Mon, 27 Jul 2026 16:00:00 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 6,
-      "queuedAt": "2026-07-28T04:30:23.012Z"
-    },
-    {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "description": "",
@@ -56,6 +42,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-29T04:32:23.246Z"
     },
     {
       "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
@@ -8248,6 +8248,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
         "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "files": [
+        "github-ai-2026-07-29-github-copilot-app-for-beginners-getting-started-7310f03f07.mdx",
+        "techcrunch-ai-2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferati-9108d8d603.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+        "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
       ]
     }
   ]
