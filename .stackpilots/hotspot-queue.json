@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "description": "",
@@ -42,6 +84,90 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "description": "",
+      "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "The Hugging Face AI break-in explained",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-07-30T04:23:16.616Z"
     },
     {
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
@@ -8259,6 +8385,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
         "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "files": [
+        "techcrunch-ai-2026-07-30-discover-what-8217-s-next-for-ai-from-the-saas-reckoning-to-the-agent--ede83952fe.mdx",
+        "techcrunch-ai-2026-07-30-claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-ven-1bd342b4b3.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
       ]
     }
   ]
