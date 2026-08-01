@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "description": "",
-      "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-31T04:44:09.752Z"
-    },
-    {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "description": "",
@@ -98,6 +84,104 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
+    },
+    {
+      "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 16:08:18 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
+    },
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 15:16:17 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
+    },
+    {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-01T04:37:54.496Z"
     },
     {
       "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
@@ -8561,6 +8645,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
         "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "files": [
+        "techcrunch-ai-2026-08-01-openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok-ec77bd47db.mdx",
+        "techcrunch-ai-2026-08-01-okta-buys-ai-security-startup-permiso-source-says-for-about-200m-25e60d9496.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
       ]
     }
   ]
