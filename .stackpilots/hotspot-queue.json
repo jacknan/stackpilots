@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "description": "",
-      "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-30T04:23:16.616Z"
-    },
-    {
-      "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "description": "",
-      "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-30T04:23:16.616Z"
-    },
-    {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "description": "",
@@ -84,6 +56,48 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "description": "",
+      "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-02T04:40:53.768Z"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "description": "",
+      "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-02T04:40:53.768Z"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "description": "",
+      "pubDate": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-02T04:40:53.768Z"
     },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
@@ -8656,6 +8670,17 @@
       "links": [
         "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "files": [
+        "techcrunch-ai-2026-08-02-mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-ad9c3055b7.mdx",
+        "techcrunch-ai-2026-08-02-zuckerberg-says-meta-8217-s-enterprise-ai-opportunity-extends-beyond-a-39de907ded.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
       ]
     }
   ]
