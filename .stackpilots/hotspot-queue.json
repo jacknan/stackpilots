@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "description": "",
-      "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-30T04:23:16.616Z"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "description": "",
-      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-07-28T04:30:23.012Z"
-    },
-    {
       "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
       "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
       "description": "",
@@ -56,6 +28,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-07-22T04:35:50.856Z"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "description": "",
+      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-03T04:48:51.075Z"
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -8681,6 +8667,17 @@
       "links": [
         "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
         "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "files": [
+        "techcrunch-ai-2026-08-03-encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls-21cfdc136e.mdx",
+        "techcrunch-ai-2026-08-03-microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cy-434f3ebbec.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+        "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
       ]
     }
   ]
