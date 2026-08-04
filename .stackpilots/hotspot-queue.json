@@ -30,6 +30,62 @@
       "queuedAt": "2026-07-22T04:35:50.856Z"
     },
     {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "description": "",
+      "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-04T04:32:35.260Z"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "description": "",
+      "pubDate": "Mon, 03 Aug 2026 19:28:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-04T04:32:35.260Z"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "description": "",
+      "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-04T04:32:35.260Z"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "description": "",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-04T04:32:35.260Z"
+    },
+    {
       "title": "Sam Altman and AI’s decel debate",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "description": "",
@@ -8678,6 +8734,17 @@
       "links": [
         "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
         "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "files": [
+        "techcrunch-ai-2026-08-04-congress-8217-favorite-ai-tool-chatgpt-06e62134a2.mdx",
+        "techcrunch-ai-2026-08-04-aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-ar-3a82c94b10.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
       ]
     }
   ]
