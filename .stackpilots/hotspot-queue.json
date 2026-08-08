@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "description": "",
+      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-08-08T03:00:43.861Z"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "description": "",
+      "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-08T03:00:43.861Z"
+    },
+    {
       "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "description": "",
@@ -9044,6 +9072,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
         "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "files": [
+        "techcrunch-ai-2026-08-08-openai-says-it-slowed-astra-model-development-over-security-concerns-5655a593c8.mdx",
+        "techcrunch-ai-2026-08-08-after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi--0d1fce0109.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
       ]
     }
   ]
