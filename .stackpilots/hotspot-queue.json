@@ -9081,6 +9081,17 @@
         "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
         "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
       ]
+    },
+    {
+      "date": "2026-08-10",
+      "files": [
+        "techcrunch-ai-2026-08-10-anthropic-is-turning-claude-code-s-auto-mode-on-by-default-944255352f.mdx",
+        "techcrunch-ai-2026-08-10-the-ai-safety-test-is-becoming-a-safety-risk-3f7c800bfd.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      ]
     }
   ]
 }
