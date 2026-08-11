@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "description": "",
+      "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-11T03:11:26.603Z"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "description": "",
+      "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-11T03:11:26.603Z"
+    },
+    {
+      "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "description": "",
+      "pubDate": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-11T03:11:26.603Z"
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "description": "",
+      "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-11T03:11:26.603Z"
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "description": "",
+      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-11T03:11:26.603Z"
+    },
+    {
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "description": "",
@@ -9091,6 +9161,17 @@
       "links": [
         "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
         "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "files": [
+        "github-ai-2026-08-11-using-the-github-copilot-sdk-for-java-56256fe3bc.mdx",
+        "techcrunch-ai-2026-08-11-tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym-f1e480bffe.mdx"
+      ],
+      "links": [
+        "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+        "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
       ]
     }
   ]
