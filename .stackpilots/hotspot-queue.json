@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-08-14T03:30:07.585Z"
-    },
-    {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "description": "",
@@ -28,6 +14,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-08-14T03:30:07.585Z"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "description": "",
+      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-16T02:34:48.664Z"
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -9468,6 +9468,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
         "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "files": [
+        "techcrunch-ai-2026-08-16-anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-w-447c79c5c7.mdx",
+        "techcrunch-ai-2026-08-16-anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war-d83d050a98.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
       ]
     }
   ]
