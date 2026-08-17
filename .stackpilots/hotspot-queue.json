@@ -2,18 +2,32 @@
   "version": 1,
   "queue": [
     {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-08-14T03:30:07.585Z"
+      "score": 1,
+      "queuedAt": "2026-08-17T02:34:27.911Z"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "description": "",
+      "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-17T02:34:27.911Z"
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -9479,6 +9493,17 @@
       "links": [
         "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
         "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "files": [
+        "techcrunch-ai-2026-08-17-microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separat-0247077166.mdx",
+        "techcrunch-ai-2026-08-17-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b-fafd24cead.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+        "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
       ]
     }
   ]
