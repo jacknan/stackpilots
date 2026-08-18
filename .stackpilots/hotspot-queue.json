@@ -2,6 +2,62 @@
   "version": 1,
   "queue": [
     {
+      "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "description": "",
+      "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-18T02:29:32.816Z"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "description": "",
+      "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-18T02:29:32.816Z"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "description": "",
+      "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-18T02:29:32.816Z"
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "description": "",
+      "pubDate": "Mon, 17 Aug 2026 13:10:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-18T02:29:32.816Z"
+    },
+    {
       "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "description": "",
@@ -9504,6 +9560,17 @@
       "links": [
         "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
         "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "files": [
+        "techcrunch-ai-2026-08-18-nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai--873e13072b.mdx",
+        "github-ai-2026-08-18-how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficie-78d3666d8b.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+        "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
       ]
     }
   ]
