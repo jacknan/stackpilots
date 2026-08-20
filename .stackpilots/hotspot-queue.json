@@ -2,6 +2,118 @@
   "version": 1,
   "queue": [
     {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 15:44:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "AI isn&#8217;t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-20T02:30:51.718Z"
+    },
+    {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "description": "",
@@ -9638,6 +9750,17 @@
       "links": [
         "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
         "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "files": [
+        "techcrunch-ai-2026-08-20-google-packs-search-and-gemini-with-new-ai-study-tools-dd7fdeb462.mdx",
+        "github-ai-2026-08-20-github-copilot-app-for-beginners-managing-your-work-b5a1511da6.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
       ]
     }
   ]
