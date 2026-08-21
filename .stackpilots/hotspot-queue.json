@@ -2,18 +2,88 @@
   "version": 1,
   "queue": [
     {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "description": "",
-      "pubDate": "Wed, 19 Aug 2026 15:44:53 +0000",
+      "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-08-20T02:30:51.718Z"
+      "score": 1,
+      "queuedAt": "2026-08-21T02:36:56.554Z"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-21T02:36:56.554Z"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-21T02:36:56.554Z"
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-21T02:36:56.554Z"
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 16:46:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-21T02:36:56.554Z"
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-21T02:36:56.554Z"
     },
     {
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
@@ -9761,6 +9831,17 @@
       "links": [
         "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "files": [
+        "techcrunch-ai-2026-08-21-a-third-of-web-pages-published-since-chatgpt-8217-s-launch-show-signs--8b7a6ac6a0.mdx",
+        "techcrunch-ai-2026-08-21-terrapower-s-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data--7815289e17.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+        "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
       ]
     }
   ]
