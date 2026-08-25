@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "description": "",
+      "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-25T02:31:28.825Z"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "description": "",
+      "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-08-25T02:31:28.825Z"
+    },
+    {
       "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "description": "",
@@ -9917,6 +9945,17 @@
       "links": [
         "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
         "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "files": [
+        "techcrunch-ai-2026-08-25-instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce-679f443c18.mdx",
+        "techcrunch-ai-2026-08-25-openai-is-building-ai-agents-for-everything-will-everyone-use-them-25d39522dc.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
       ]
     }
   ]
