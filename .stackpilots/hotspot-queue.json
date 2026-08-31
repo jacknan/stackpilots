@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "description": "",
-      "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-08-29T07:54:12.699Z"
-    },
-    {
       "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "description": "",
@@ -10305,6 +10291,17 @@
       "links": [
         "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
         "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "files": [
+        "techcrunch-ai-2026-08-31-caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automati-d427202242.mdx",
+        "techcrunch-ai-2026-08-31-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai-09fc2e9c2c.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
       ]
     }
   ]
