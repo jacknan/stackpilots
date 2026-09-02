@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "description": "",
+      "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-02T05:51:49.697Z"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "description": "",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-02T05:51:49.697Z"
+    },
+    {
+      "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "description": "",
+      "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-02T05:51:49.697Z"
+    },
+    {
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "description": "",
@@ -10383,6 +10425,17 @@
       "links": [
         "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
         "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "files": [
+        "techcrunch-ai-2026-09-02-google-8217-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-o-5f4331d84f.mdx",
+        "techcrunch-ai-2026-09-02-air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents--1847690842.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
       ]
     }
   ]
