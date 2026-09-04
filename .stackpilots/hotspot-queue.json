@@ -16,6 +16,90 @@
       "queuedAt": "2026-09-03T05:51:28.838Z"
     },
     {
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "description": "",
+      "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-04T05:57:14.840Z"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-04T05:57:14.840Z"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-04T05:57:14.840Z"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-04T05:57:14.840Z"
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-04T05:57:14.840Z"
+    },
+    {
+      "title": "Google&#8217;s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-04T05:57:14.840Z"
+    },
+    {
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "description": "",
@@ -10559,6 +10643,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
         "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "files": [
+        "github-ai-2026-09-04-github-copilot-app-for-beginners-run-several-agents-at-once-c18b3bb292.mdx",
+        "techcrunch-ai-2026-09-04-the-sameness-problem-behind-those-unappetizing-ai-generated-menus-73d7f7bb41.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+        "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
       ]
     }
   ]
