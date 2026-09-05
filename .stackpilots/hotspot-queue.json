@@ -16,6 +16,48 @@
       "queuedAt": "2026-09-03T05:51:28.838Z"
     },
     {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "description": "",
+      "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-09-05T05:47:36.218Z"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "description": "",
+      "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-05T05:47:36.218Z"
+    },
+    {
+      "title": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "description": "",
+      "pubDate": "Fri, 04 Sep 2026 16:04:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-05T05:47:36.218Z"
+    },
+    {
       "title": "Crusoe reportedly raises $3B at a $30B valuation",
       "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "description": "",
@@ -10654,6 +10696,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
         "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "files": [
+        "github-ai-2026-09-05-project-hydrafusion-frontier-quality-via-multi-model-orchestration-87ef5c15d3.mdx",
+        "techcrunch-ai-2026-09-05-openai-8217-s-rogue-agents-keep-escaping-with-no-formal-process-to-inv-a2ddce03d4.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+        "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
       ]
     }
   ]
