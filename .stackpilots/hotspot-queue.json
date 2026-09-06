@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
-      "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-      "description": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! appeared first on The GitHub Blog . ]]>",
-      "pubDate": "Wed, 02 Sep 2026 21:00:00 +0000",
-      "feedKey": "github-ai",
-      "tags": [
-        "ai-tools",
-        "github-copilot",
-        "software-engineering"
-      ],
-      "score": 4,
-      "queuedAt": "2026-09-03T05:51:28.838Z"
-    },
-    {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
       "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "description": "",
@@ -28,6 +14,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-05T05:47:36.218Z"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "description": "",
+      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-06T05:59:40.202Z"
     },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -10707,6 +10707,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
         "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "files": [
+        "github-ai-2026-09-06-decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-8230-oh-271f803af0.mdx",
+        "techcrunch-ai-2026-09-06-openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-mor-5d4986f08b.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+        "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
       ]
     }
   ]
