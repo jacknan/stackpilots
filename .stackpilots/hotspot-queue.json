@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "description": "",
-      "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-05T05:47:36.218Z"
-    },
-    {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "description": "",
@@ -10718,6 +10704,17 @@
       "links": [
         "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
         "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "files": [
+        "techcrunch-ai-2026-09-07-authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-se-6a3a62ca59.mdx",
+        "techcrunch-ai-2026-09-07-another-swarm-of-openai-agents-reached-the-open-internet-without-the-f-5cce5c1ac7.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
       ]
     }
   ]
