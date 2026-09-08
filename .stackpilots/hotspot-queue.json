@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "description": "",
-      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-09-06T05:59:40.202Z"
-    },
-    {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "description": "",
@@ -10715,6 +10701,17 @@
       "links": [
         "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
         "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "files": [
+        "techcrunch-ai-2026-09-08-opaque-recurrence-and-other-ai-terms-that-you-should-probably-know-bbd44de733.mdx",
+        "techcrunch-ai-2026-09-08-seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-an-a5bf96dbe6.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
       ]
     }
   ]
