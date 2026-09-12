@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "description": "",
-      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-11T06:03:17.226Z"
-    },
-    {
       "title": "AI agents are flooding public services with new requests",
       "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
       "description": "",
@@ -28,6 +14,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-11T06:03:17.226Z"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "description": "",
+      "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-12T05:51:32.278Z"
+    },
+    {
+      "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "description": "",
+      "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-12T05:51:32.278Z"
+    },
+    {
+      "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "description": "",
+      "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-12T05:51:32.278Z"
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "description": "",
+      "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-12T05:51:32.278Z"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "description": "",
+      "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-12T05:51:32.278Z"
     },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -10983,6 +11039,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
         "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "files": [
+        "techcrunch-ai-2026-09-12-anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you-4a1ed41738.mdx",
+        "github-ai-2026-09-12-marketing-ops-as-code-automating-events-from-planning-to-follow-up-on--c44b2451db.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+        "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"
       ]
     }
   ]
