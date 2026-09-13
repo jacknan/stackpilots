@@ -2,18 +2,18 @@
   "version": 1,
   "queue": [
     {
-      "title": "AI agents are flooding public services with new requests",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
       "description": "",
-      "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
+      "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-09-11T06:03:17.226Z"
+      "score": 1,
+      "queuedAt": "2026-09-13T06:14:36.769Z"
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -11050,6 +11050,17 @@
       "links": [
         "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
         "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "files": [
+        "techcrunch-ai-2026-09-13-anthropic-ceo-outlines-plan-to-slow-ai-development-7658eb64cf.mdx",
+        "techcrunch-ai-2026-09-13-ai-agents-are-flooding-public-services-with-new-requests-70dbdcfd0b.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
       ]
     }
   ]
