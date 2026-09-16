@@ -2,6 +2,104 @@
   "version": 1,
   "queue": [
     {
+      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "description": "",
+      "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "",
+      "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "description": "",
+      "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "description": "",
+      "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "description": "",
+      "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "description": "",
+      "pubDate": "Tue, 15 Sep 2026 14:42:37 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-16T06:04:59.522Z"
+    },
+    {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "description": "",
@@ -11153,6 +11251,17 @@
       "links": [
         "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
         "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "files": [
+        "techcrunch-ai-2026-09-16-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s-4a8be412f3.mdx",
+        "techcrunch-ai-2026-09-16-ai-agents-now-have-a-place-to-snitch-14a8297173.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
       ]
     }
   ]
