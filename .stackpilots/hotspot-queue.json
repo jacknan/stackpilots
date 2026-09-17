@@ -2,6 +2,132 @@
   "version": 1,
   "queue": [
     {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "description": "",
+      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "description": "",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "description": "",
+      "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "description": "",
+      "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
       "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
       "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "description": "",
@@ -11262,6 +11388,17 @@
       "links": [
         "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
         "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "files": [
+        "github-ai-2026-09-17-migrating-the-github-copilot-runtime-to-rust-using-copilot-6e4c7787bb.mdx",
+        "techcrunch-ai-2026-09-17-anthropic-merges-claude-chat-and-cowork-in-one-interface-26ddd6d19e.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+        "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
       ]
     }
   ]
