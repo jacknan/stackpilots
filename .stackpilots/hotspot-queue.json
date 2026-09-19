@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "description": "",
+      "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
+    },
+    {
       "title": "UN turns to Google to make its global data ready for AI agents",
       "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
       "description": "",
@@ -70,6 +84,90 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "description": "",
+      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "description": "",
+      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "description": "",
+      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
+    },
+    {
+      "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "description": "",
+      "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…how?",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "description": "",
+      "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
+    },
+    {
+      "title": "Automattic&#8217;s 33-Hour Coup, and can AI labs police themselves?",
+      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "description": "",
+      "pubDate": "Fri, 18 Sep 2026 17:06:32 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-19T05:57:01.019Z"
     },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
@@ -11536,6 +11634,17 @@
       "links": [
         "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
         "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "files": [
+        "techcrunch-ai-2026-09-19-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers-b311cc8207.mdx",
+        "github-ai-2026-09-19-should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp-76df97b15d.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
       ]
     }
   ]
