@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "description": "",
-      "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-19T05:57:01.019Z"
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "description": "",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-18T05:58:02.679Z"
-    },
-    {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "description": "",
@@ -84,6 +56,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "description": "",
+      "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-20T06:21:36.797Z"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "description": "",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-20T06:21:36.797Z"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "description": "",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-20T06:21:36.797Z"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "description": "",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-20T06:21:36.797Z"
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "description": "",
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-20T06:21:36.797Z"
     },
     {
       "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
@@ -11645,6 +11687,17 @@
       "links": [
         "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
         "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "files": [
+        "techcrunch-ai-2026-09-20-google-8217-s-new-8216-cc-8217-is-an-ai-agent-that-helps-families-run--96293117e2.mdx",
+        "techcrunch-ai-2026-09-20-un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-c70b5555d0.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+        "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
       ]
     }
   ]
