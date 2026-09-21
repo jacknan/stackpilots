@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "description": "",
-      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-18T05:58:02.679Z"
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "description": "",
-      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-17T06:10:21.728Z"
-    },
-    {
       "title": "Your AI agents can now control your Google Home devices",
       "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
       "description": "",
@@ -56,6 +28,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "description": "",
+      "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-21T06:24:55.059Z"
     },
     {
       "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
@@ -11698,6 +11684,17 @@
       "links": [
         "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
         "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "files": [
+        "techcrunch-ai-2026-09-21-microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human--5cc2ac0014.mdx",
+        "techcrunch-ai-2026-09-21-your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-partne-05ff914fd9.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
       ]
     }
   ]
