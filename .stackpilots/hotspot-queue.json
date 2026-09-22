@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "description": "",
-      "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-17T06:10:21.728Z"
-    },
-    {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
       "description": "",
@@ -28,6 +14,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-17T06:10:21.728Z"
+    },
+    {
+      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "description": "",
+      "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-22T06:17:27.535Z"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "description": "",
+      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-22T06:17:27.535Z"
+    },
+    {
+      "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "description": "",
+      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-22T06:17:27.535Z"
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "description": "",
+      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-22T06:17:27.535Z"
     },
     {
       "title": "Is the AI industry really ready to slow down?",
@@ -11695,6 +11737,17 @@
       "links": [
         "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
         "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "files": [
+        "techcrunch-ai-2026-09-22-meta-8217-s-ai-agent-has-been-blocked-from-using-amazon-com-c476924b2e.mdx",
+        "techcrunch-ai-2026-09-22-your-ai-agents-can-now-control-your-google-home-devices-ffa6cd36bb.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+        "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
       ]
     }
   ]
