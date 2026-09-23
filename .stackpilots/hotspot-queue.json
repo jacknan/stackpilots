@@ -2,18 +2,88 @@
   "version": 1,
   "queue": [
     {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "description": "",
-      "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-09-17T06:10:21.728Z"
+      "score": 1,
+      "queuedAt": "2026-09-23T06:01:38.909Z"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-23T06:01:38.909Z"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-23T06:01:38.909Z"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-23T06:01:38.909Z"
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-23T06:01:38.909Z"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-23T06:01:38.909Z"
     },
     {
       "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
@@ -11748,6 +11818,17 @@
       "links": [
         "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
         "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "files": [
+        "techcrunch-ai-2026-09-23-openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mista-11b524309f.mdx",
+        "techcrunch-ai-2026-09-23-robots-are-waiting-for-a-chatgpt-moment-nvidia-s-les-karpas-explains-w-fd27e61521.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
       ]
     }
   ]
