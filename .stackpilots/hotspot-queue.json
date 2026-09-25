@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "When chat is the wrong UI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "description": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog . ]]>",
+      "pubDate": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "feedKey": "github-ai",
+      "tags": [
+        "ai-tools",
+        "github-copilot",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-09-25T06:10:41.390Z"
+    },
+    {
       "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
       "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "description": "",
@@ -28,6 +42,62 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-24T06:12:31.901Z"
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "description": "",
+      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-25T06:10:41.390Z"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "description": "",
+      "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-25T06:10:41.390Z"
+    },
+    {
+      "title": "Google Photos &#8216;Clueless&#8217;-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "description": "",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-25T06:10:41.390Z"
+    },
+    {
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "description": "",
+      "pubDate": "Thu, 24 Sep 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-09-25T06:10:41.390Z"
     },
     {
       "title": "Meta introduces camera-free AI glasses",
@@ -11966,6 +12036,17 @@
       "links": [
         "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
         "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "files": [
+        "github-ai-2026-09-25-ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent-5d810621a5.mdx",
+        "techcrunch-ai-2026-09-25-lovable-8217-s-annualized-revenue-crosses-600m-as-vibe-coding-takes-of-d97cd23331.mdx"
+      ],
+      "links": [
+        "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+        "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
       ]
     }
   ]
