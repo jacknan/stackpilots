@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "description": "",
-      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-24T06:12:31.901Z"
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "description": "",
-      "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-09-27T06:40:09.124Z"
-    },
-    {
       "title": "Insurers claim AI is already increasing healthcare costs",
       "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
       "description": "",
@@ -12153,6 +12125,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
         "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "files": [
+        "techcrunch-ai-2026-09-28-chatgpt-mobile-app-gets-voice-based-agentic-features-d9a1b51f35.mdx",
+        "techcrunch-ai-2026-09-28-google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai--b09c672e44.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+        "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
       ]
     }
   ]
