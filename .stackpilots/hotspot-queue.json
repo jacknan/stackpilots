@@ -2,6 +2,34 @@
   "version": 1,
   "queue": [
     {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 16:00:24 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
       "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
       "description": "",
@@ -56,6 +84,90 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 16:24:23 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
+      "title": "Destro AI&#8217;s secret sauce is getting robots and humans on the same page",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "description": "",
+      "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-01T07:12:28.318Z"
     },
     {
       "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
@@ -12340,6 +12452,17 @@
       "links": [
         "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
         "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "files": [
+        "techcrunch-ai-2026-10-01-openai-8217-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming--c2747f3375.mdx",
+        "techcrunch-ai-2026-10-01-reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai-8b112c5c21.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
       ]
     }
   ]
