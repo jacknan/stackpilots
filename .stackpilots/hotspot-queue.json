@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "description": "",
-      "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-01T07:12:28.318Z"
-    },
-    {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
       "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
       "description": "",
@@ -70,6 +56,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "description": "",
+      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-04T06:59:03.719Z"
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -12667,6 +12667,17 @@
       "links": [
         "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
         "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "files": [
+        "techcrunch-ai-2026-10-04-all-the-ai-agents-that-can-live-in-your-text-messages-41a7e44054.mdx",
+        "techcrunch-ai-2026-10-04-restate-lands-20m-as-the-need-for-durable-infrastructure-increases-wit-4a00c2f7a1.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
       ]
     }
   ]
