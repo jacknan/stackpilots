@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "description": "",
-      "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-08T07:27:57.674Z"
-    },
-    {
       "title": "The next hurdle for AI agents: getting websites to let them in",
       "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
       "description": "",
@@ -84,6 +70,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "description": "",
+      "pubDate": "Sun, 11 Oct 2026 16:52:33 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-12T07:25:10.459Z"
     },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
@@ -13273,6 +13273,17 @@
       "links": [
         "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
         "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "files": [
+        "techcrunch-ai-2026-10-12-these-execs-think-voice-ai-hasn-8217-t-reached-its-chatgpt-moment-yet-ba5db8106c.mdx",
+        "techcrunch-ai-2026-10-12-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu-9b80120014.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
       ]
     }
   ]
