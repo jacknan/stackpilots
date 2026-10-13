@@ -72,6 +72,62 @@
       "queuedAt": "2026-09-30T06:46:28.217Z"
     },
     {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "description": "",
+      "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-13T07:46:12.059Z"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "description": "",
+      "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-13T07:46:12.059Z"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "description": "",
+      "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-13T07:46:12.059Z"
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "description": "",
+      "pubDate": "Mon, 12 Oct 2026 12:47:59 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-13T07:46:12.059Z"
+    },
+    {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
       "description": "",
@@ -13284,6 +13340,17 @@
       "links": [
         "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
         "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "files": [
+        "github-ai-2026-10-13-github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codeb-d8d2417239.mdx",
+        "techcrunch-ai-2026-10-13-honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company-fa08cc00ea.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+        "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
       ]
     }
   ]
