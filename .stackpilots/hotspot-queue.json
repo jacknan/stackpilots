@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "description": "",
-      "pubDate": "Tue, 13 Oct 2026 17:18:25 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-14T06:11:05.286Z"
-    },
-    {
       "title": "The next hurdle for AI agents: getting websites to let them in",
       "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
       "description": "",
@@ -84,6 +70,90 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "description": "",
+      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-16T05:53:40.639Z"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "description": "",
+      "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-16T05:53:40.639Z"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "description": "",
+      "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-16T05:53:40.639Z"
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "description": "",
+      "pubDate": "Thu, 15 Oct 2026 18:56:46 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-16T05:53:40.639Z"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "description": "",
+      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-16T05:53:40.639Z"
+    },
+    {
+      "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "description": "",
+      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-16T05:53:40.639Z"
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
@@ -13555,6 +13625,17 @@
       "links": [
         "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
         "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "files": [
+        "techcrunch-ai-2026-10-16-ai-agents-are-coming-to-rivian-8217-s-cars-a040032c19.mdx",
+        "techcrunch-ai-2026-10-16-pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new--992e14a3e4.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
       ]
     }
   ]
