@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "description": "",
-      "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-07T07:16:59.693Z"
-    },
-    {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
       "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "description": "",
@@ -70,6 +56,76 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "description": "",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-17T05:37:40.859Z"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "description": "",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-17T05:37:40.859Z"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "description": "",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-17T05:37:40.859Z"
+    },
+    {
+      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "description": "",
+      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-17T05:37:40.859Z"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "description": "",
+      "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-17T05:37:40.859Z"
     },
     {
       "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
@@ -13636,6 +13692,17 @@
       "links": [
         "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
         "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "files": [
+        "techcrunch-ai-2026-10-17-india-becomes-the-latest-country-to-report-rogue-ai-agent-activity-bfa998e6f2.mdx",
+        "techcrunch-ai-2026-10-17-the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-a9ee6e8832.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
       ]
     }
   ]
