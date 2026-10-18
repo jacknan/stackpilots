@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "description": "",
-      "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-06T07:36:23.170Z"
-    },
-    {
       "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
       "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
       "description": "",
@@ -56,6 +42,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "description": "",
+      "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-18T05:58:00.725Z"
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -13703,6 +13703,17 @@
       "links": [
         "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
         "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "files": [
+        "techcrunch-ai-2026-10-18-meta-removes-language-that-raised-scraping-and-ai-training-concerns-568162b981.mdx",
+        "techcrunch-ai-2026-10-18-instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-a-ddc310eb36.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
       ]
     }
   ]
