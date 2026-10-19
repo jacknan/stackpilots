@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "description": "",
-      "pubDate": "Mon, 05 Oct 2026 14:35:09 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-06T07:36:23.170Z"
-    },
-    {
-      "title": "OpenAI expands ChatGPT&#8217;s plug-ins with app-like interfaces and automations",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "description": "",
-      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-09-30T06:46:28.217Z"
-    },
-    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "description": "",
@@ -42,6 +14,20 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "description": "",
+      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-19T06:15:30.534Z"
     },
     {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
@@ -13714,6 +13700,17 @@
       "links": [
         "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
         "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "files": [
+        "techcrunch-ai-2026-10-19-researchers-are-tracking-a-chinese-ai-8216-agent-fleet-8217-622d42420a.mdx",
+        "techcrunch-ai-2026-10-19-openai-expands-chatgpt-8217-s-plug-ins-with-app-like-interfaces-and-au-e277d681e1.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+        "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
       ]
     }
   ]
