@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "description": "",
-      "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-10-20T06:04:57.310Z"
-    },
-    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "description": "",
@@ -28,6 +14,34 @@
       ],
       "score": 2,
       "queuedAt": "2026-09-30T06:46:28.217Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "",
+      "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-25T06:11:25.104Z"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "description": "",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-25T06:11:25.104Z"
     },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -14130,6 +14144,17 @@
       "links": [
         "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
         "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "files": [
+        "techcrunch-ai-2026-10-25-here-are-the-top-ai-agents-that-can-live-in-your-text-messages-0d4ae8a7dd.mdx",
+        "techcrunch-ai-2026-10-25-microsoft-says-ai-agents-are-like-insider-threats-as-8216-frontier-mod-0cffae2fd0.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
       ]
     }
   ]
