@@ -2,20 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "description": "",
-      "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-10-26T06:18:35.597Z"
-    },
-    {
       "title": "The hottest AI wearables and gadgets you should know about",
       "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "description": "",
@@ -28,6 +14,20 @@
       ],
       "score": 1,
       "queuedAt": "2026-10-26T06:18:35.597Z"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "description": "",
+      "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-27T06:20:51.023Z"
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
@@ -14180,6 +14180,17 @@
       "links": [
         "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
         "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "files": [
+        "techcrunch-ai-2026-10-27-how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-ass-858bf7d244.mdx",
+        "techcrunch-ai-2026-10-27-ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-s-71334093a4.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
       ]
     }
   ]
