@@ -2,6 +2,90 @@
   "version": 1,
   "queue": [
     {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "description": "",
+      "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-29T07:09:45.974Z"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "description": "",
+      "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-29T07:09:45.974Z"
+    },
+    {
+      "title": "The &#8216;Vulnpocalypse&#8217; is coming for the internet’s aging code, says Wiz’s CTO",
+      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "description": "",
+      "pubDate": "Wed, 28 Oct 2026 18:50:39 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-29T07:09:45.974Z"
+    },
+    {
+      "title": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "description": "",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-29T07:09:45.974Z"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "description": "",
+      "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-29T07:09:45.974Z"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "description": "",
+      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-29T07:09:45.974Z"
+    },
+    {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
       "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "description": "",
@@ -14272,6 +14356,17 @@
       "links": [
         "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
         "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "files": [
+        "techcrunch-ai-2026-10-29-anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-2ede9b7f34.mdx",
+        "techcrunch-ai-2026-10-29-as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-ap-1e8ba9106e.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
       ]
     }
   ]
