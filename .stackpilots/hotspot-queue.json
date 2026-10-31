@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "description": "",
+      "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-31T07:01:07.948Z"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "description": "",
+      "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-31T07:01:07.948Z"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "description": "",
+      "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-31T07:01:07.948Z"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "description": "",
+      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-31T07:01:07.948Z"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "description": "",
+      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-10-31T07:01:07.948Z"
+    },
+    {
       "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
       "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "description": "",
@@ -14476,6 +14546,17 @@
       "links": [
         "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
         "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "files": [
+        "techcrunch-ai-2026-10-31-zest-8217-s-new-ai-agent-finds-restaurants-and-books-reservations-over-d52c9778a5.mdx",
+        "techcrunch-ai-2026-10-31-doordash-said-it-8217-s-only-received-8216-several-hundred-8217-orders-f986a412ee.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+        "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
       ]
     }
   ]
