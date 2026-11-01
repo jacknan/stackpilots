@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "description": "",
+      "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-01T07:36:08.867Z"
+    },
+    {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "description": "",
@@ -14557,6 +14571,17 @@
       "links": [
         "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
         "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "files": [
+        "techcrunch-ai-2026-11-01-apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake-89c6cb6d29.mdx",
+        "techcrunch-ai-2026-11-01-judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forw-bc398a80a0.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
       ]
     }
   ]
