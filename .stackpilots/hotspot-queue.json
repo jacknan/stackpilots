@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "description": "",
+      "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-04T07:31:13.185Z"
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "description": "",
+      "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-04T07:31:13.185Z"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "description": "",
+      "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-04T07:31:13.185Z"
+    },
+    {
+      "title": "Netflix&#8217;s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "description": "",
+      "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-04T07:31:13.185Z"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "description": "",
+      "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-04T07:31:13.185Z"
+    },
+    {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
       "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "description": "",
@@ -14716,6 +14786,17 @@
       "links": [
         "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
         "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "files": [
+        "techcrunch-ai-2026-11-04-google-will-let-schools-disable-its-ai-tools-but-not-without-sacrifici-410d5c941f.mdx",
+        "techcrunch-ai-2026-11-04-ted-schlein-8217-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-d37889a9eb.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+        "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
       ]
     }
   ]
