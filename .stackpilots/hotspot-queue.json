@@ -2,6 +2,146 @@
   "version": 1,
   "queue": [
     {
+      "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "description": "",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-06T07:57:06.677Z"
+    },
+    {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "description": "",
@@ -14920,6 +15060,17 @@
       "links": [
         "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
         "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "files": [
+        "techcrunch-ai-2026-11-06-claude-can-now-analyze-your-spending-with-its-new-personal-finance-too-b0e121b3a4.mdx",
+        "techcrunch-ai-2026-11-06-palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-fo-9889510bec.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+        "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
       ]
     }
   ]
