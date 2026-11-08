@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "description": "",
-      "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-11-06T07:57:06.677Z"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "description": "",
-      "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-11-06T07:57:06.677Z"
-    },
-    {
       "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "description": "",
@@ -15166,6 +15138,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
         "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "files": [
+        "techcrunch-ai-2026-11-08-airbnb-says-it-8217-s-launching-an-ai-travel-agent-in-the-first-half-o-01af2f668a.mdx",
+        "techcrunch-ai-2026-11-08-openai-released-a-new-cybersecurity-model-is-that-enough-8f7798ef97.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
       ]
     }
   ]
