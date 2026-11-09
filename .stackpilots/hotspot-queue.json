@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "description": "",
-      "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-11-06T07:57:06.677Z"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "description": "",
-      "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-11-07T07:14:35.488Z"
-    },
-    {
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
       "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "description": "",
@@ -15149,6 +15121,17 @@
       "links": [
         "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
         "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "files": [
+        "techcrunch-ai-2026-11-09-aina-8217-s-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-ta-0f2052ea73.mdx",
+        "techcrunch-ai-2026-11-09-openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-v-314bd08978.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
       ]
     }
   ]
