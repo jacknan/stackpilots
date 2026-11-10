@@ -2,6 +2,62 @@
   "version": 1,
   "queue": [
     {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-10T08:26:39.354Z"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 18:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-10T08:26:39.354Z"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-10T08:26:39.354Z"
+    },
+    {
+      "title": "Medium&#8217;s new TK app brings AI assistance directly into the writing process",
+      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-10T08:26:39.354Z"
+    },
+    {
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
       "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "description": "",
@@ -15132,6 +15188,17 @@
       "links": [
         "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
         "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "files": [
+        "techcrunch-ai-2026-11-10-automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changin-95c3c02be0.mdx",
+        "techcrunch-ai-2026-11-10-otter-ai-can-now-follow-conversations-across-30-languages-1b18832a8d.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+        "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
       ]
     }
   ]
