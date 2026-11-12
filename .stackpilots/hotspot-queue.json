@@ -2,32 +2,74 @@
   "version": 1,
   "queue": [
     {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
       "description": "",
-      "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
+      "pubDate": "Wed, 11 Nov 2026 23:17:05 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-11-11T07:46:07.947Z"
+      "score": 1,
+      "queuedAt": "2026-11-12T08:22:44.785Z"
     },
     {
-      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "description": "",
-      "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
+      "pubDate": "Wed, 11 Nov 2026 19:54:00 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-11-11T07:46:07.947Z"
+      "score": 1,
+      "queuedAt": "2026-11-12T08:22:44.785Z"
+    },
+    {
+      "title": "With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chips",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "description": "",
+      "pubDate": "Wed, 11 Nov 2026 19:34:55 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-12T08:22:44.785Z"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "description": "",
+      "pubDate": "Wed, 11 Nov 2026 19:22:22 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-12T08:22:44.785Z"
+    },
+    {
+      "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "description": "",
+      "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-12T08:22:44.785Z"
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -15322,6 +15364,17 @@
       "links": [
         "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
         "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "files": [
+        "techcrunch-ai-2026-11-12-openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bi-ccdccf818b.mdx",
+        "techcrunch-ai-2026-11-12-meta-8217-s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os-0504529861.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+        "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
       ]
     }
   ]
