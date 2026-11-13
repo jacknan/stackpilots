@@ -2,6 +2,76 @@
   "version": 1,
   "queue": [
     {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "description": "",
+      "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 2,
+      "queuedAt": "2026-11-13T08:03:08.378Z"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "description": "",
+      "pubDate": "Thu, 12 Nov 2026 20:26:47 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-13T08:03:08.378Z"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "description": "",
+      "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-13T08:03:08.378Z"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "description": "",
+      "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-13T08:03:08.378Z"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "description": "",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-13T08:03:08.378Z"
+    },
+    {
       "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
       "description": "",
@@ -15375,6 +15445,17 @@
       "links": [
         "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
         "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "files": [
+        "github-ai-2026-11-13-build-once-run-on-any-agent-a-practical-guide-to-agent-skills-657af3312a.mdx",
+        "techcrunch-ai-2026-11-13-united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecu-f5707a3468.mdx"
+      ],
+      "links": [
+        "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+        "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
       ]
     }
   ]
