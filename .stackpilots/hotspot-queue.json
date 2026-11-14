@@ -16,6 +16,34 @@
       "queuedAt": "2026-11-13T08:03:08.378Z"
     },
     {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "description": "",
+      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-14T07:37:52.478Z"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "description": "",
+      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-14T07:37:52.478Z"
+    },
+    {
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
       "description": "",
@@ -15456,6 +15484,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
         "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "files": [
+        "techcrunch-ai-2026-11-14-chatgpt-8217-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-c231d25e54.mdx",
+        "techcrunch-ai-2026-11-14-ai-agent-startup-langchain-hits-3b-valuation-645e798427.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
       ]
     }
   ]
