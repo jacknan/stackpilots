@@ -2,6 +2,20 @@
   "version": 1,
   "queue": [
     {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "description": "",
+      "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-16T08:01:26.139Z"
+    },
+    {
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "description": "",
@@ -15520,6 +15534,17 @@
       "links": [
         "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
         "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "files": [
+        "techcrunch-ai-2026-11-16-apple-launches-new-app-to-study-how-people-use-ai-for-health-77828770ff.mdx",
+        "techcrunch-ai-2026-11-16-indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-fa232e2aaf.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
       ]
     }
   ]
