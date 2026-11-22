@@ -2,18 +2,32 @@
   "version": 1,
   "queue": [
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
       "feedKey": "techcrunch-ai",
       "tags": [
         "ai-tools",
         "industry-news",
         "software-engineering"
       ],
-      "score": 2,
-      "queuedAt": "2026-11-17T09:15:25.968Z"
+      "score": 1,
+      "queuedAt": "2026-11-22T08:02:30.685Z"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "description": "",
+      "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-22T08:02:30.685Z"
     },
     {
       "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
@@ -15852,6 +15866,17 @@
       "links": [
         "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
         "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "files": [
+        "techcrunch-ai-2026-11-22-here-are-the-top-ai-agents-that-can-live-in-your-text-messages-01945f6a90.mdx",
+        "techcrunch-ai-2026-11-22-openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat--63e5e5cd26.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
       ]
     }
   ]
