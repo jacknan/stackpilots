@@ -2,6 +2,48 @@
   "version": 1,
   "queue": [
     {
+      "title": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "description": "",
+      "pubDate": "Mon, 23 Nov 2026 19:14:46 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-24T10:59:44.276Z"
+    },
+    {
+      "title": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "description": "",
+      "pubDate": "Mon, 23 Nov 2026 17:14:23 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-24T10:59:44.276Z"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "description": "",
+      "pubDate": "Mon, 23 Nov 2026 14:43:03 +0000",
+      "feedKey": "techcrunch-ai",
+      "tags": [
+        "ai-tools",
+        "industry-news",
+        "software-engineering"
+      ],
+      "score": 1,
+      "queuedAt": "2026-11-24T10:59:44.276Z"
+    },
+    {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "description": "",
@@ -15888,6 +15930,17 @@
       "links": [
         "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
         "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "files": [
+        "techcrunch-ai-2026-11-24-anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approv-27065c561f.mdx",
+        "techcrunch-ai-2026-11-24-supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-int-0d63fb1e6c.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
       ]
     }
   ]
