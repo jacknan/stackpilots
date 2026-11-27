@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "description": "",
-      "pubDate": "Wed, 25 Nov 2026 14:10:18 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-11-26T09:35:19.757Z"
-    },
-    {
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "description": "",
-      "pubDate": "Tue, 24 Nov 2026 18:02:59 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 2,
-      "queuedAt": "2026-11-25T09:53:06.892Z"
-    },
-    {
       "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
       "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "description": "",
@@ -16145,6 +16117,17 @@
       "links": [
         "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
         "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "files": [
+        "techcrunch-ai-2026-11-27-amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse-61cb6e1f95.mdx",
+        "techcrunch-ai-2026-11-27-uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security-cb0d7372f9.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
       ]
     }
   ]
