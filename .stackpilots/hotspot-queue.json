@@ -2,34 +2,6 @@
   "version": 1,
   "queue": [
     {
-      "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
-      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "description": "",
-      "pubDate": "Wed, 25 Nov 2026 19:54:57 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-11-26T09:35:19.757Z"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "description": "",
-      "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000",
-      "feedKey": "techcrunch-ai",
-      "tags": [
-        "ai-tools",
-        "industry-news",
-        "software-engineering"
-      ],
-      "score": 1,
-      "queuedAt": "2026-11-26T09:35:19.757Z"
-    },
-    {
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "description": "",
@@ -16128,6 +16100,17 @@
       "links": [
         "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
         "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "files": [
+        "techcrunch-ai-2026-11-28-jensen-huang-broke-nvidia-8217-s-code-of-conduct-and-his-employees-may-fb5a7d58c9.mdx",
+        "techcrunch-ai-2026-11-28-anthropic-s-dario-amodei-calls-accusations-of-surrendering-human-contr-00d3c793ba.mdx"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
       ]
     }
   ]
